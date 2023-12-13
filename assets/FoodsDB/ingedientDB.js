@@ -88,6 +88,10 @@ const Ingredients = [
     image: require('./images/ingredient/broth.png'),
   },
   {
+    name: 'brown-sugar',
+    image: require('./images/ingredient/brown-sugar.png'),
+  },
+  {
     name: 'butter',
     image: require('./images/ingredient/butter.png'),
   },
@@ -136,6 +140,10 @@ const Ingredients = [
     image: require('./images/ingredient/cheese.png'),
   },
   {
+    name: 'chia-seed',
+    image: require('./images/ingredient/chia-seed.png'),
+  },
+  {
     name: 'chicharon',
     image: require('./images/ingredient/chicharon.png'),
   },
@@ -148,8 +156,16 @@ const Ingredients = [
     image: require('./images/ingredient/chicken-breast.png'),
   },
   {
+    name: 'chicken-wings',
+    image: require('./images/ingredient/chicken-wings.png'),
+  },
+  {
     name: 'chili',
     image: require('./images/ingredient/chili.png'),
+  },
+  {
+    name: 'chili-powder',
+    image: require('./images/ingredient/chili-powder.png'),
   },
   {
     name: 'chili-sauce',
@@ -172,6 +188,14 @@ const Ingredients = [
     image: require('./images/ingredient/coconut-milk.png'),
   },
   {
+    name: 'coffee',
+    image: require('./images/ingredient/coffee.png'),
+  },
+  {
+    name: 'cokelat-batang',
+    image: require('./images/ingredient/cokelat-batang.png'),
+  },
+  {
     name: 'condensed-milk',
     image: require('./images/ingredient/condensed-milk.png'),
   },
@@ -186,6 +210,10 @@ const Ingredients = [
   {
     name: 'corn',
     image: require('./images/ingredient/corn.png'),
+  },
+  {
+    name: 'cornflakes',
+    image: require('./images/ingredient/cornflakes.png'),
   },
   {
     name: 'cornstarch',
@@ -220,6 +248,10 @@ const Ingredients = [
     image: require('./images/ingredient/daging-giling.png'),
   },
   {
+    name: 'dumpling-wrap',
+    image: require('./images/ingredient/dumpling-wrap.png'),
+  },
+  {
     name: 'dye',
     image: require('./images/ingredient/dye.png'),
   },
@@ -234,6 +266,10 @@ const Ingredients = [
   {
     name: 'fish',
     image: require('./images/ingredient/fish.png'),
+  },
+  {
+    name: 'fishball',
+    image: require('./images/ingredient/fishball.png'),
   },
   {
     name: 'fish-sauce',
@@ -266,6 +302,10 @@ const Ingredients = [
   {
     name: 'goat',
     image: require('./images/ingredient/goat.png'),
+  },
+  {
+    name: 'gochujang-sauce',
+    image: require('./images/ingredient/gochujang-sauce.png'),
   },
   {
     name: 'graham',
@@ -308,8 +348,20 @@ const Ingredients = [
     image: require('./images/ingredient/jackfruit.png'),
   },
   {
+    name: 'jamur-enoki',
+    image: require('./images/ingredient/jamur-enoki.png'),
+  },
+  {
+    name: 'jamur-shimaji',
+    image: require('./images/ingredient/jamur-shimaji.png'),
+  },
+  {
     name: 'jelly',
     image: require('./images/ingredient/jelly.png'),
+  },
+  {
+    name: 'jelly-powder',
+    image: require('./images/ingredient/jelly-powder.png'),
   },
   {
     name: 'juice-lemon',
@@ -334,6 +386,10 @@ const Ingredients = [
   {
     name: 'lemon',
     image: require('./images/ingredient/lemon.png'),
+  },
+  {
+    name: 'lemongrass',
+    image: require('./images/ingredient/lemongrass.png'),
   },
   {
     name: 'lime',
@@ -374,6 +430,10 @@ const Ingredients = [
   {
     name: 'margarine',
     image: require('./images/ingredient/margarine.png'),
+  },
+  {
+    name: 'marshmallow',
+    image: require('./images/ingredient/marshmallow.png'),
   },
   {
     name: 'mayonnaise',
@@ -458,6 +518,14 @@ const Ingredients = [
   {
     name: 'oyster-sauce',
     image: require('./images/ingredient/oyster-sauce.png'),
+  },
+  {
+    name: 'palm-sugar',
+    image: require('./images/ingredient/palm-sugar.png'),
+  },
+  {
+    name: 'pandan-leaf',
+    image: require('./images/ingredient/pandan-leaf.png'),
   },
   {
     name: 'papaya',
@@ -584,6 +652,10 @@ const Ingredients = [
     image: require('./images/ingredient/selada.png'),
   },
   {
+    name: 'selai-cokelat',
+    image: require('./images/ingredient/selai-cokelat.png'),
+  },
+  {
     name: 'sesame-oil',
     image: require('./images/ingredient/sesame-oil.png'),
   },
@@ -630,6 +702,10 @@ const Ingredients = [
   {
     name: 'stock',
     image: require('./images/ingredient/stock.png'),
+  },
+  {
+    name: 'strawberry',
+    image: require('./images/ingredient/strawberry.png'),
   },  
   {
     name: 'sugar',
@@ -638,6 +714,10 @@ const Ingredients = [
   {
     name: 'sweet-potato',
     image: require('./images/ingredient/sweet-potato.png'),
+  },
+  {
+    name: 'syrup',
+    image: require('./images/ingredient/syrup.png'),
   },
   {
     name: 'tamarind',
@@ -650,6 +730,10 @@ const Ingredients = [
   {
     name: 'taro-leaves',
     image: require('./images/ingredient/taro-leaves.png'),
+  },
+  {
+    name: 'taro-pasta',
+    image: require('./images/ingredient/taro-pasta.png'),
   },
   {
     name: 'tartar',
