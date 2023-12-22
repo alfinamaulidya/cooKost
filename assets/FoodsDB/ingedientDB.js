@@ -1,5 +1,9 @@
 const Ingredients = [
   {
+    name: 'abon',
+    image: require('./images/ingredient/abon.png'),
+  },
+  {
     name: 'almond',
     image: require('./images/ingredient/almond.png'),
   },
@@ -244,7 +248,7 @@ const Ingredients = [
     image: require('./images/ingredient/cumin.png'),
   },
   {
-    name: 'daging giling',
+    name: 'daging-giling',
     image: require('./images/ingredient/daging-giling.png'),
   },
   {
@@ -806,6 +810,10 @@ const Ingredients = [
   {
     name: 'yam',
     image: require('./images/ingredient/yam.png'),
+  },
+  {
+    name: 'yogurt',
+    image: require('./images/ingredient/yogurt.png'),
   },
 ];
 
