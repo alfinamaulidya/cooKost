@@ -435,10 +435,10 @@ instructions: [
 `Tutup mie dengan Plastic Wrap. Pastikan bentuk mie sudah sesuai seperti roti hamburger. Simpan ke dalam Freezer selama 25-30 menit sampai beku.`,
 `Sambil menunggu, buat bagian daging. Pertama, tambahkan Soy Sauce, merica bubuk, dan garam ke dalam daging giling.`,
 `Aduk sampai tercampur rata.`,
-`Lalu, bentuk daging menjadi bulat datar seperti daging pada hamburger.`
+`Lalu, bentuk daging menjadi bulat datar seperti daging pada hamburger.`,
 `Panaskan minyak goreng dalam wajan dengan api sedang.`,
 `Jika minyak sudah panas, masukkan daging yang sudah dibentuk tadi. Tunggu hingga warna menjadi emas kecokelatan.`,
-`Lalu, jika mie dalam freezer sudah membeku, panaskan minyak goreng dengan api sedang. Jika minyak sudah panas, goreng mie tersebut hingga berwarna emas kecokelatan.`
+`Lalu, jika mie dalam freezer sudah membeku, panaskan minyak goreng dengan api sedang. Jika minyak sudah panas, goreng mie tersebut hingga berwarna emas kecokelatan.`,
 `Sambil menunggu, goreng telur mata sapi.`,
 `Jika sudah matan semua, waktunya menyusun.`,
 `Pertama, letakkan selada pada atas mie bun. Kedua, letakkan daging Patty nya di atas selada.`,
@@ -1058,7 +1058,7 @@ image: `cooking-oil`,
 },
 ],
 instructions: [
-`Potong cabai dan bawang merah.`
+`Potong cabai dan bawang merah.`,
 `Campurkan perasan Lime, saus ikan, dan gula (Sesuaikan rasa dengan selera Anda).`,
 `Tuang saus sarden kaleng (Pisahkan dengan daging ikannya).`,
 `Lalu, tambahkan campuran Lime tadi, cabai, dan bawang merah. Aduk rata.`,
@@ -5632,7 +5632,8 @@ tagalog: `Snack`,
 type: [
 `Snack`,
 `Street Food`,
-`Deep-Fried Dish`
+`Deep-Fried Dish`,
+`Egg Dish`
 ],
 special: [
 `Celebration`,
@@ -5690,7 +5691,7 @@ name: `telur`,
 amount: `1 butir`,
 tagalog: null,
 type: null,
-image: `chicken`,
+image: `egg`,
 },
 {
 name: `garam`,
@@ -5711,14 +5712,14 @@ name: `tepung roti`,
 amount: `100 gram`,
 tagalog: null,
 type: null,
-image: ``,
+image: `cereal`,
 },
 {
 name: `minyak`,
 amount: `1/4 liter`,
 tagalog: null,
 type: null,
-image: `olive-oil`,
+image: `cooking-oil`,
 },
 ],
 instructions: [
@@ -5754,7 +5755,9 @@ tagalog: ``,
 type: [
 `Soup`,
 `Breakfast`,
-`Appetizer`
+`Appetizer`,
+`Vegetable Dish`,
+`Chicken Dish`,
 ],
 special: null,
 keywords: [
@@ -5792,7 +5795,7 @@ name: `ayam`,
 amount: `100 gram`,
 tagalog: null,
 type: `potongan dadu kecil`,
-image: `chicken`,
+image: `chicken-breast`,
 },
 {
 name: `jamur`,
@@ -5878,7 +5881,8 @@ type: [
 `Appetizer`,
 `Breakfast`,
 `Snack`,
-`Street Food`
+`Street Food`,
+`Sweet`,
 ],
 special: null,
 keywords: [
@@ -5916,7 +5920,7 @@ name: `pisang`,
 amount: `1`,
 tagalog: null,
 type: `irisan`,
-image: ``,
+image: `banana`,
 },
 {
 name: `semangka`,
@@ -5958,14 +5962,14 @@ name: `keju`,
 amount: `1 sdm`,
 tagalog: null,
 type: `parutan`,
-image: ``,
+image: `cheese`,
 },
 {
 name: `susu`,
 amount: `1 sdm`,
 tagalog: null,
 type: `kental manis`,
-image: ``,
+image: `milk-can`,
 },
 ],
 instructions: [
@@ -5997,6 +6001,7 @@ name: `Sandwich Ham`,
 tagalog: `High Protein`,
 type: [
 `Breakfast`,
+`Appetizer`,
 `Meat Dish`,
 `Pork Dish`,
 ],
@@ -6033,35 +6038,35 @@ name: `roti`,
 amount: `2`,
 tagalog: null,
 type: `lembar`,
-image: ``,
+image: `bread`,
 },
 {
 name: `ham`,
 amount: `3`,
 tagalog: null,
 type: `lembar`,
-image: ``,
+image: `slice-beef-burger`,
 },
 {
 name: `keju`,
 amount: `1`,
 tagalog: null,
 type: `lembar`,
-image: ``,
+image: `cheese`,
 },
 {
 name: `saus tomat`,
 amount: `1 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `tomato-sauce`,
 },
 {
 name: `mentega`,
 amount: `2 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `butter`,
 },
 ],
 instructions: [
@@ -6142,14 +6147,14 @@ name: `tahu`,
 amount: `150gr`,
 tagalog: null,
 type: `potongan dadu`,
-image: ``,
+image: `tofu`,
 },
 {
 name: `daging sapi`,
 amount: `100gr`,
 tagalog: null,
 type: `irisan tipis`,
-image: ``,
+image: `beef-slice`,
 },
 {
 name: `kimchi`,
@@ -6163,49 +6168,49 @@ name: `daun pre`,
 amount: `1`,
 tagalog: null,
 type: `potongan tebal`,
-image: ``,
+image: `scallion`,
 },
 {
 name: `minyak wijen`,
 amount: `1 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `sesame-oil`,
 },
 {
 name: `cabe bubuk`,
 amount: `1 sdm`,
 tagalog: null,
 type: ``,
-image: ``,
+image: `chili-powder`,
 },
 {
 name: `bawang putih`,
 amount: `2 siung`,
 tagalog: null,
 type: `cincang halus`,
-image: ``,
+image: `garlic`,
 },
 {
 name: `air`,
 amount: `3 cangkir`,
 tagalog: null,
 type: ``,
-image: ``,
+image: `water`,
 },
 {
 name: `garam`,
 amount: `1 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `salt`,
 },
 {
 name: `lada`,
 amount: `1 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `peppercorn`,
 },
 ],
 instructions: [
@@ -6276,28 +6281,28 @@ name: `roti`,
 amount: `2`,
 tagalog: null,
 type: `lembar`,
-image: ``,
+image: `bread`,
 },
 {
 name: `strawberry`,
 amount: `200gr`,
 tagalog: null,
 type: `potogan kecil`,
-image: ``,
+image: `strawberry`,
 },
 {
 name: `whipping cream`,
 amount: `2 sdm`,
 tagalog: null,
 type: ``,
-image: ``,
+image: `cream`,
 },
 {
 name: `gula pasir`,
 amount: `1 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `sugar`,
 },
 ],
 instructions: [
@@ -6320,7 +6325,7 @@ nutrition: [
 ],
 },
 video: `https://youtu.be/ItPtbiJQH5w`,
-image: require('./images/food/000000056.jpg'),
+image: require('./images/food/000000056.webp'),
 },
 {
 id: 57,
@@ -6366,42 +6371,42 @@ name: `mie instant`,
 amount: `1 bks`,
 tagalog: null,
 type: null,
-image: ``,
+image: `noodles`,
 },
 {
 name: `jeruk nipis`,
 amount: `1 buah`,
 tagalog: null,
 type: `perasan`,
-image: ``,
+image: `lime`,
 },
 {
 name: `ikan sarden`,
 amount: `1 kaleng`,
 tagalog: null,
 type: null,
-image: ``,
+image: `sardine`,
 },
 {
 name: `cabe merah`,
 amount: `1 biji`,
 tagalog: null,
 type: `iris tipis`,
-image: ``,
+image: `red-chile`,
 },
 {
 name: `garam`,
 amount: `1/2 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `salt`,
 },
 {
 name: `lada hitam`,
 amount: `1/2 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `blackpepper`,
 },
 ],
 instructions: [
@@ -6425,7 +6430,7 @@ nutrition: [
 ],
 },
 video: `https://youtu.be/__fWaOyChPw`,
-image: require('./images/food/000000057.jpg'),
+image: require('./images/food/000000057.webp'),
 },
 {
 id: 58,
@@ -6466,63 +6471,63 @@ name: `telur`,
 amount: `2 butir`,
 tagalog: null,
 type: `dikocok`,
-image: ``,
+image: `egg`,
 },
 {
 name: `tahu`,
 amount: `1 potong`,
 tagalog: null,
 type: `potongan dadu kecil`,
-image: ``,
+image: `tofu`,
 },
 {
 name: `daun bawang`,
 amount: `1 batang`,
 tagalog: null,
 type: `irisan tipis`,
-image: ``,
+image: `scallion`,
 },
 {
 name: `kecap asin`,
 amount: `1 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `soy-sauce`,
 },
 {
 name: `kecap ikan`,
 amount: `1 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `oyster-sauce`,
 },
 {
 name: `garam`,
 amount: `1/2 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `salt`,
 },
 {
 name: `lada hitam`,
 amount: `1/2 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `blackpepper`,
 },
 {
 name: `minyak`,
 amount: `4 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `cooking-oil`,
 },
 {
 name: `air`,
 amount: `2 cangkir`,
 tagalog: null,
 type: null,
-image: ``,
+image: `water`,
 },
 ],
 instructions: [
@@ -6549,7 +6554,7 @@ nutrition: [
 ],
 },
 video: `https://youtu.be/RV3b39V18Nk`,
-image: require('./images/food/000000058.jpg'),
+image: require('./images/food/000000058.webp'),
 },
 {
 id: 59,
@@ -6595,63 +6600,63 @@ name: `daging sapi`,
 amount: `100gr`,
 tagalog: null,
 type: `cincang`,
-image: ``,
+image: `daging-giling`,
 },
 {
 name: `mie instant`,
 amount: `1 bks`,
 tagalog: null,
 type: null,
-image: ``,
+image: `noodles`,
 },
 {
 name: `telur`,
 amount: `1 butir`,
 tagalog: null,
 type: null,
-image: ``,
+image: `egg`,
 },
 {
 name: `kecap asin`,
 amount: `1 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `soy-sauce`,
 },
 {
 name: `bawang putih`,
 amount: `2 siung`,
 tagalog: null,
 type: `cincang halus`,
-image: ``,
+image: `garlic`,
 },
 {
 name: `seledri`,
 amount: `1 batang`,
 tagalog: null,
 type: `cincang halus`,
-image: ``,
+image: `celery`,
 },
 {
 name: `garam`,
 amount: `1/2 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `salt`,
 },
 {
 name: `lada hitam`,
 amount: `1/2 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `blackpper`,
 },
 {
 name: `minyak`,
 amount: `1/2 liter`,
 tagalog: null,
 type: null,
-image: ``,
+image: `cooking-oil`,
 },
 ],
 instructions: [
@@ -6679,7 +6684,7 @@ nutrition: [
 ],
 },
 video: null,
-image: require('./images/food/000000059.jpg'),
+image: require('./images/food/000000059.webp'),
 },
 {
 id: 60,
@@ -6725,63 +6730,63 @@ name: `spaghetti`,
 amount: `100gr`,
 tagalog: null,
 type: null,
-image: ``,
+image: `noodles`,
 },
 {
 name: `sosis`,
 amount: `2 buah`,
 tagalog: null,
 type: `irisan tipis`,
-image: ``,
+image: `sausage`,
 },
 {
 name: `tomat`,
 amount: `1 buah`,
 tagalog: null,
 type: `cincang`,
-image: ``,
+image: `tomato`,
 },
 {
 name: `bawang bombai`,
 amount: `1/2 buah`,
 tagalog: null,
 type: `cincang halus`,
-image: ``,
+image: `onion`,
 },
 {
 name: `minyak sayur`,
 amount: `3 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `vegetable-oil`,
 },
 {
 name: `saus tomat`,
 amount: `200ml`,
 tagalog: null,
 type: null,
-image: ``,
+image: `tomato-sauce`,
 },
 {
 name: `lada hitam`,
 amount: `1/2 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `blackpepper`,
 },
 {
 name: `garam`,
 amount: `1 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `salt`,
 },
 {
 name: `gula pasir`,
 amount: `1/2 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `sugar`,
 },
 ],
 instructions: [
@@ -6808,7 +6813,7 @@ nutrition: [
 ],
 },
 video: null,
-image: require('./images/food/000000060.jpg'),
+image: require('./images/food/000000060.webp'),
 },
 {
 id: 61,
@@ -6853,42 +6858,42 @@ name: `nasi putih`,
 amount: `200gr`,
 tagalog: null,
 type: null,
-image: ``,
+image: `rice`,
 },
 {
 name: `sosis`,
 amount: `2 buah`,
 tagalog: null,
 type: `irisan tipis`,
-image: ``,
+image: `sausage`,
 },
 {
 name: `lada hitam`,
 amount: `1/2 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `blackpepper`,
 },
 {
 name: `garam`,
 amount: `1/2 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `salt`,
 },
 {
 name: `telur`,
 amount: `2 butir`,
 tagalog: null,
 type: null,
-image: ``,
+image: `egg`,
 },
 {
 name: `kecap asin`,
 amount: `1 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `soy-sauce`,
 },
 ],
 instructions: [
@@ -6914,7 +6919,7 @@ nutrition: [
 ],
 },
 video: `https://youtu.be/aRDR5BMQ8j8`,
-image: require('./images/food/000000061.jpg'),
+image: require('./images/food/000000061.webp'),
 },
 {
 id: 62,
@@ -6955,74 +6960,67 @@ calories: `400 kkal`,
 },
 ingredients: [
 {
-name: `nasi putih`,
-amount: `200gr`,
-tagalog: null,
-type: null,
-image: ``,
-},
-{
 name: `daging sapi cincang`,
 amount: `150gr`,
 tagalog: null,
 type: null,
-image: ``,
+image: `daging-cincang`,
 },
 {
 name: `sosis`,
 amount: `2 buah`,
 tagalog: null,
 type: `irisan tipis`,
-image: ``,
+image: `sausage`,
 },
 {
 name: `lada hitam`,
 amount: `1/2 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `blackpper`,
 },
 {
 name: `garam`,
 amount: `1/2 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `salt`,
 },
 {
 name: `telur`,
 amount: `2 butir`,
 tagalog: null,
 type: null,
-image: ``,
+image: `egg`,
 },
 {
 name: `kecap asin`,
 amount: `1 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `soy-sauce`,
 },
 {
 name: `kecap ikan`,
 amount: `1 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `oyster-sauce`,
 },
 {
 name: `wortel`,
 amount: `1/2 potong`,
 tagalog: null,
 type: `potongan dadu`,
-image: ``,
+image: `carrot`,
 },
 {
 name: `daun bawang`,
 amount: `1 batang`,
 tagalog: null,
 type: `irisan tipis`,
-image: ``,
+image: `scallion`,
 },
 ],
 instructions: [
@@ -7048,7 +7046,7 @@ nutrition: [
 ],
 },
 video: `https://youtu.be/sx0O7x-t0p0`,
-image: require('./images/food/000000062.jpg'),
+image: require('./images/food/000000062.webp'),
 },
 {
 id: 63,
@@ -7092,42 +7090,42 @@ name: `roti gandum`,
 amount: `4 lembar`,
 tagalog: null,
 type: null,
-image: ``,
+image: `bread`,
 },
 {
 name: `telur rebus`,
 amount: `4 butir`,
 tagalog: null,
 type: `cincang halus`,
-image: ``,
+image: `egg`,
 },
 {
 name: `lada hitam`,
 amount: `1/4 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `blackpper`,
 },
 {
 name: `garam`,
 amount: `1/4 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `salt`,
 },
 {
 name: `mentimun`,
 amount: `1 buah`,
 tagalog: null,
 type: `irisan tipis`,
-image: ``,
+image: `cucumber`,
 },
 {
 name: `mayones`,
 amount: `2 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `mayonnaise`,
 },
 ],
 instructions: [
@@ -7151,7 +7149,7 @@ nutrition: [
 ],
 },
 video: null,
-image: require('./images/food/000000063.jpg'),
+image: require('./images/food/000000063.webp'),
 },
 {
 id: 64,
@@ -7199,35 +7197,35 @@ name: `roti`,
 amount: `4 lembar`,
 tagalog: null,
 type: null,
-image: ``,
+image: `bread`,
 },
 {
 name: `saus tomat`,
 amount: `2 sdm`,
 tagalog: null,
 type: `irisan tipis`,
-image: ``,
+image: `tomato-sauce`,
 },
 {
 name: `jagung`,
 amount: `200gr`,
 tagalog: null,
 type: null,
-image: ``,
+image: `corn`,
 },
 {
 name: `daging ham`,
 amount: `4 lembar`,
 tagalog: null,
 type: `irisan dadu`,
-image: ``,
+image: `beef-slice`,
 },
 {
 name: `mayones`,
 amount: `2 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `mayonnaise`,
 },
 ],
 instructions: [
@@ -7251,7 +7249,7 @@ nutrition: [
 ],
 },
 video: `https://youtu.be/_9weQMu2Kvo`,
-image: require('./images/food/000000064.jpg'),
+image: require('./images/food/000000064.webp'),
 },
 {
 id: 65,
@@ -7296,28 +7294,28 @@ name: `nasi putih`,
 amount: `200gr`,
 tagalog: null,
 type: null,
-image: ``,
+image: `rice`,
 },
 {
 name: `daging ayam`,
 amount: `300gr`,
 tagalog: null,
 type: `potongan dadu`,
-image: ``,
+image: `chicken-breast`,
 },
 {
 name: `saus teriyaki`,
 amount: `5 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `mix-liquid`,
 },
 {
 name: `gula pasir`,
 amount: `2 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `sugar`,
 },
 ],
 instructions: [
@@ -7342,7 +7340,7 @@ nutrition: [
 ],
 },
 video: `https://youtu.be/jLtfJxVQn5I`,
-image: require('./images/food/000000065.jpg'),
+image: require('./images/food/000000065.webp'),
 },
 {
 id: 66,
@@ -7386,55 +7384,55 @@ name: `daging`,
 amount: `100 gram`,
 tagalog: null,
 type: `cincang`,
-image: ``,
+image: `daging-cincang`,
 },
 {
 name: `telur`,
 amount: `2 butir`,
 tagalog: null,
 type: `potongan dadu`,
-image: ``,
+image: `egg`,
 },
 {
 name: `tomat`,
 amount: `1 buah`,
 tagalog: null,
 type: `potongan dadu`,
-image: ``,
+image: `tomato`,
 },
 {
 name: `garam`,
 amount: `1/2 sdt`,
 tagalo: null,
-image: ``,
+image: `salt`,
 },
 {
 name: `gula pasir`,
 amount: `1/2 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `sugar`,
 },
 {
 name: `saus`,
 amount: `1 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `chili-sauce`,
 },
 {
 name: `lada hitam`,
 amount: `1/4 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `blackpepper`,
 },
 {
 name: `minyak`,
 amount: `5 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `cooking-oil`,
 },
 ],
 instructions: [
@@ -7462,7 +7460,7 @@ nutrition: [
 ],
 },
 video: `https://youtu.be/9ZZME6Ab7Rs`,
-image: require(`./images/food/000000066.jpg`),
+image: require(`./images/food/000000066.webp`),
 },
 {
 id: 67,
@@ -7504,21 +7502,21 @@ name: `roti rasa abon ayam`,
 amount: `2 lembar`,
 tagalog: null,
 type: null,
-image: ``,
+image: `bread`,
 },
 {
 name: `jagung`,
 amount: `100gr`,
 tagalog: null,
 type: null,
-image: ``,
+image: `corn`,
 },
 {
 name: `telur`,
 amount: `1 butir`,
 tagalog: null,
 type: null,
-image: ``,
+image: `egg`,
 },
 ],
 instructions: [
@@ -7542,7 +7540,7 @@ nutrition: [
 ],
 },
 video: `https://youtu.be/uZCfv5ZpWao`,
-image: require('./images/food/000000067.jpg'),
+image: require('./images/food/000000067.webp'),
 },
 {
 id: 68,
@@ -7587,42 +7585,42 @@ name: `mie instan`,
 amount: `1 bungkus`,
 tagalog: null,
 type: null,
-image: ``,
+image: `noodles`,
 },
 {
 name: `ayam`,
 amount: `100gr`,
 tagalog: null,
 type: `potongan kecil`,
-image: ``,
+image: `chicken`,
 },
 {
 name: `kubis`,
 amount: `100gr`,
 tagalog: null,
 type: `potongan tipis`,
-image: ``,
+image: `cabbage`,
 },
 {
 name: `saus tiram`,
 amount: `1 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `oyster-sauce`,
 },
 {
 name: `saus suki`,
 amount: `1 sdm`,
 tagalog: null,
 type: null,
-image: ``,
+image: `soy-sauce`,
 },
 {
 name: `telur`,
 amount: `1 butir`,
 tagalog: null,
 type: null,
-image: ``,
+image: `egg`,
 },
 ],
 instructions: [
@@ -7648,7 +7646,7 @@ nutrition: [
 ],
 },
 video: `https://youtu.be/WviYhlA3R00`,
-image: require('./images/food/000000068.jpg'),
+image: require('./images/food/000000068.webp'),
 },
 {
 id: 69,
@@ -7692,35 +7690,35 @@ name: `sosis`,
 amount: `2 batang`,
 tagalog: null,
 type: null,
-image: ``,
+image: `sausage`,
 },
 {
 name: `keju`,
 amount: `2 lembar`,
 tagalog: null,
 type: null,
-image: ``,
+image: `cheese`,
 },
 {
 name: `kecap asin`,
 amount: `1 sdt`,
 tagalog: null,
 type: null,
-image: ``,
+image: `soy-sauce`,
 },
 {
 name: `telur`,
 amount: `2 butir`,
 tagalog: null,
 type: null,
-image: ``,
+image: `egg`,
 },
 {
 name: `minyak`,
 amount: `1/4 liter`,
 tagalog: null,
 type: null,
-image: ``,
+image: `cooking-oil`,
 },
 ],
 instructions: [
@@ -7745,7 +7743,7 @@ nutrition: [
 ],
 },
 video: `https://youtu.be/zeWgdElgxtU`,
-image: require('./images/food/000000069.jpg'),
+image: require('./images/food/000000069.webp'),
 },
 {
 id: 70,
@@ -7768,1510 +7766,69 @@ keywords: [
 `air putih`,
 `gula pasir`,
 ],
-description: `Light and creamy maja blanca is a popular Filipino dessert which consists of coconut milk thickened with cornstarch and blended with whole corn kernels. Many modern varieties of this classic incorporate condensed or plain milk, cream, or diced cheese and are traditionally garnished with toasted coconut flakes or coconut latik.
+description: `
+Pisang Rebus Manis
 
-As the name suggests, this refreshing delicacy is the authentic Filipino variation of the popular manjar blanco, the creamy milk-based dessert found in numerous Spanish speaking countries. In the Philippines, maja blanca is a staple holiday dessert served on many special occasions.`,
+Pisang Rebus Manis adalah hidangan sederhana yang mempersembahkan kelembutan pisang yang direbus dengan gula, menciptakan rasa manis alami yang memanjakan lidah. Dengan sentuhan gula pasir, hidangan ini memberikan cita rasa yang lezat dan memuaskan.`,
 link: `https://panlasangpinoy.com/maja-blanca-recipe/`,
-author: `Vanjo Merano`,
+author: `cooKost`,
 information: null,
 recipe: {
 details: {
-description: `This is a recipe for Maja Blanca.`,
+description: `pilihan yang cocok sebagai camilan atau hidangan penutup ringan.`,
 time: {
-prep: `8 Minutes`,
-cook: `35 Minutes`,
-total: `43 Minutes`,
+prep: `5 Menit`,
+cook: `15 Menit`,
+total: `20 Mneit`,
 },
-servings: `8 People`,
-calories: `574 kcal`,
+servings: `1 orang`,
+calories: `150 kkal`,
 },
 ingredients: [
-
+{
+name: `pisang`,
+amount: `2 buah`,
+tagalog: null,
+type: null,
+image: `banana`,
+},
+{
+name: `air putih`,
+amount: `500cc`,
+tagalog: null,
+type: null,
+image: `water`,
+},
+{
+name: `gula pasir`,
+amount: `2 sdm`,
+tagalog: null,
+type: null,
+image: `sugar`,
+},
 ],
 instructions: [
-
+    `Potong pisang menjadi 6 bagian atau sesuai selera.`,
+    `Masukkan pisang ke dalam panci.`,
+    `Tuangkan air hingga pisang terendam.`,
+    `Masukkan gula.`,
+    `Rebus di atas api sedang.`,
+    `Tunggu sampai gula mencair.`,
+    `Sajikan dengan susu agar lebih nikmat.`,
+    `Pisang Rebus Manis siap disantap.`,
 ],
 nutrition: [
-
+    { name: 'Karbohidrat', amount: '40g' },
+    { name: 'Serat', amount: '3g' },
+    { name: 'Gula', amount: '20g' },
+    { name: 'Kalsium', amount: '10mg' },
+    { name: 'Natrium', amount: '5mg' },
 ],
 },
 video: `https://youtu.be/vj_ee_6T6ys`,
-image: require('./images/food/000000070.jpg'),
+image: require('./images/food/000000070.webp'),
 },
-{
-id: 71,
-name: `Beef Tapa`,
-tagalog: `Tapa`,
-type: [
-`Meat Dish`,
-`Beef Dish`,
-],
-special: null,
-keywords: [
-`how to cook tapa recipe`,
-`how to cook beef tapa recipe`,
-`how to cook beef recipe`,
-`how to cook meat recipe`,
-],
-description: `In Filipino cuisine, tapa most commonly denotes thinly sliced beef sirloin that is traditionally placed in a sweet, salty, and tangy marinade made with calamansi lemonade and soy sauce, flavored with sugar and minced garlic. Other meats used to make tapa include mutton, venison, wild boar, horse, deer, and also the meat of carabao - a swamp-type domestic water buffalo native to the Philippines.
-
-Tapa is typically either grilled or pan-fried, and it is best enjoyed when served as a part of the so-called tapsilog, which is a portmanteau of the Filipino words tapa and sinangag, meaning garlic-fried rice, and itlog, meaning eggs.
-
-Tapsilog is often accompanied by sliced tomatoes ot pickled papaya strips called atchara. Altogether, this delicious combination is popularly known as the Philippine-style breakfast of champions, and to most Filipinos, it is a favorite way to start the day.`,
-link: `https://panlasangpinoy.com/coca-cola-beef-tapa/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `This is a recipe for Coca Cola Beef Tapa.`,
-time: {
-prep: `3 Hours`,
-cook: `25 Minutes`,
-total: `3 Hours 25 Minutes`,
-},
-servings: `8 People`,
-calories: null,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: null,
-image: require('./images/food/000000071.jpg'),
-},
-{
-id: 72,
-name: `Bicol Express`,
-tagalog: `Bicol Express`,
-type: [
-`Pork Dish`,
-`Meat Dish`,
-`Main Course`,
-],
-special: null,
-keywords: [
-`how to cook bicol express recipe`,
-`how to cook pork recipe`,
-`how to cook meat recipe`,
-],
-description: `Bicol express is a popular Filipino dish consisting of sliced pork that is doused in a creamy coconut-based sauce and seasoned with shrimp paste and spicy chili peppers. According to popular belief, Cely Kalaw invented the dish in her Manila restaurant.
-
-She was inspired by the traditional Bicolano coconut-infused dishes and named the new invention after a Filipino train service operating from Manila to the Bicol region. Creamy and spicy Bicol express is usually served with plain steamed rice on the side.`,
-link: `https://panlasangpinoy.com/bicol-express/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `This is a recipe for Bicol Express.`,
-time: {
-prep: `5 Minutes`,
-cook: `55 Minutes`,
-total: `1 Hour`,
-},
-servings: `6 People`,
-calories: `1240 kcal`,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/oNeQRYQ7q4E`,
-image: require('./images/food/000000072.jpg'),
-},
-{
-id: 73,
-name: `Beef Pares`,
-tagalog: `Pares`,
-type: [
-`Stew`,
-`Beef Dish`,
-`Meat Dish`,
-],
-special: null,
-keywords: [
-`how to cook pares recipe`,
-`how to cook beef pares recipe`,
-`how to cook beef stew recipe`,
-`how to cook stew recipe`,
-`how to cook beef recipe`,
-`how to cook meat recipe`,
-],
-description: `Pares is a Filipino term that typically refers to a standard combination of beef stew, beef soup, and rice. The star is the stew consisting of beef chunks that are slowly braised in a flavorful stock infused with garlic, soy sauce, star anise, sugar, and a variety of other spices and condiments.
-
-The thick, rich, and slightly sweet sauce and tender meat make pares one of the most popular beef dishes in the country. The term pares translates as pairs and stems from the traditional practice of serving this satisfying stew along with fried or steamed rice and a bowl of nourishing beef stock.
-
-This traditional comfort food is commonly found in many Filipino establishments (carenderias), which all have their signature pares recipes.`,
-link: `https://panlasangpinoy.com/filipino-food-how-to-cook-beef-pares-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `Beef stewed in soy sauce with star anise. This dish is best enjoyed with garlic fried rice and a bowl of beef stock on the side.`,
-time: {
-prep: `10 Minutes`,
-cook: `45 Minutes`,
-total: `55 Minutes`,
-},
-servings: null,
-calories: `3622 kcal`,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/fVpdPTTgGKo`,
-image: require('./images/food/000000073.jpg'),
-},
-{
-id: 74,
-name: `Lugaw`,
-tagalog: `Lugaw`,
-type: [
-`Rice Dish`,
-`Porridge`,
-`Breakfast`,
-`Snack`,
-],
-special: null,
-keywords: [
-`how to cook lugaw recipe`,
-`how to cook porridge recipe`,
-`how to cook rice recipe`,
-],
-description: `Lugaw is a Filipino rice porridge that is traditionally thought of as soft food for sick people, due to the fact that it doesn't require much chewing. Warm, filling, and mushy, the dish acts as an ideal base for any type of meat and seasonings, just like a congee.
-
-Lugaw is usually consumed for breakfast or as a snack. Many cooks like to add chicken, lemon, and ginger in order to improve the flavors of the dish. After that, it can be flavored with typical Filipino ingredients: scallions, garlic chips, sliced hard-boiled eggs, calamansi, or fish sauce.
-
-Lugaw is also traditionally prepared as a part of the Christmas Eve celebratory meal known as Noche Buena.`,
-link: `https://panlasangpinoy.com/lugaw-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: null,
-time: {
-prep: `3 Minutes`,
-cook: `35 Minutes`,
-total: `38 Minutes`,
-},
-servings: `4 People`,
-calories: null,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: null,
-image: require('./images/food/000000074.jpg'),
-},
-{
-id: 75,
-name: `Papaitan`,
-tagalog: `Papaitan`,
-type: [
-`Offal Soup`,
-`Offal Dish`,
-`Soup`
-],
-special: null,
-keywords: [
-`how to cook papaitan recipe`,
-`how to cook offal recipe`,
-`how to cook soup recipe`,
-`how to cook offal soup recipe`,
-],
-special: null,
-description: `Papaitan is a famous Ilocano soup dish mostly composed of cow or goat innards. The name of this dish was derived from the Filipino word “Pait”, which means “bitter”. The bitter taste of this soup comes from the bile. This is a bitter juice extracted by the liver and stored in the gallbladder to aid digestion.
-
-Although this soup is popular, one needs to develop and acquired taste to enjoy it. Once an acquired taste has developed, you will surely appreciate this dish without minding its components.`,
-link: `https://panlasangpinoy.com/papaitan-recip/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `This is a recipe for beef papaitan.`,
-time: {
-prep: `10 Minutes`,
-cook: `1 Hour`,
-total: `1 Hour 10 Minutes`,
-},
-servings: `6 People`,
-calories: `373 kcal`,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/69Ro64JX8CY`,
-image: require(`./images/food/000000075.jpg`),
-},
-{
-id: 76,
-name: `Dinengdeng`,
-tagalog: `Inabraw`,
-type: [
-`Vegetable Dish`,
-`Vegetable Soup`,
-`Soup`,
-],
-special: null,
-keywords: [
-`how to cook dinengdeng recipe`,
-`how to cook inabraw recipe`,
-`how to cook vegetable recipe`,
-`how to cook vegetable soup recipe`,
-`how to cook soup recipe`,
-],
-special: null,
-description: `Dinengdeng or inabraw is a Filipino vegetable dish that originated from the Ilocos region in the Philippines. It is composed of different vegetables that are usually grown in one’s backyard. This dish has a similarity with bulanglang and laswa; the obvious difference of Dinengdeng is the use of fried or grilled fish. Another notable difference is the addition of “bagoong isda”.`,
-link: `https://panlasangpinoy.com/dinengdeng-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: null,
-time: {
-prep: `10 Minutes`,
-cook: `35 Minutes`,
-total: `45 Minutes`,
-},
-servings: `6 People`,
-calories: null,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/hBYMoLukvMA`,
-image: require(`./images/food/000000076.jpg`),
-},
-{
-id: 77,
-name: `Tokneneng`,
-tagalog: `Tokneneng`,
-type: [
-`Street Food`,
-`Appetizer`,
-`Snack`,
-`Egg Dish`,
-`Deep-Fried Dish`,
-],
-special: null,
-keywords: [
-`how to cook toknenent recipe`,
-`how to cook kwek-kwek recipe`,
-`how to cook kwek kwek recipe`,
-`how to cook street food recipe`,
-`how to cook egg recipe`,
-],
-special: null,
-description: `Tokneneng is a traditional Filipino dish that's sold as a street food snack. It consists of hard-boiled eggs that are dipped in an orange-colored batter, then deep-fried. The dish is traditionally made with duck eggs, but chicken eggs can also be used.
-
-The batter is made with a combination of flour, water, salt, pepper, and annatto powder (or red and yellow food coloring). Once deep-fried, these eggs are traditionally served with a spiced vinegar-based dip on the side. There's also a variation on the dish called kwek kwek, made with quail eggs. `,
-link: `https://panlasangpinoy.com/tokneneng-filipino-street-food-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `This is a recipe for fried orange chicken egg called tokneneng.`,
-time: {
-prep: `5 Minutes`,
-cook: `3 Minutes`,
-total: `8 Minutes`,
-},
-servings: `3 People`,
-calories: null,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/jGP2fjPxfUc`,
-image: require(`./images/food/000000077.jpg`),
-},
-{
-id: 78,
-name: `Beef Caldereta`,
-tagalog: `Kalderetang Baka`,
-type: [
-`Beef Dish`,
-`Meat Dish`,
-`Stew`,
-],
-special: [
-`Celebration`,
-`Fiesta`,
-`New Year`,
-`Birthday`,
-`Christmas`,
-`Special Occassion`,
-`Wedding`,
-],
-keywords: [
-`how to cook beef recipe`,
-`how to cook caldereta recipe`,
-`how to cook kaldereta recipe`,
-`how to cook beef caldereta recipe`,
-`how to cook stew recipe`,
-`how to cook beef stew recipe`,
-`how to cook kalderetang baka recipe`,
-`how to cook meat recipe`,
-],
-description: `Beef Kaldereta is a main stay in any Filipino Kitchen. It is a type of beef stew cooked with tomato sauce and liver spread. Ingredients such as potato, carrots, bell peppers, and olives are also utilized when cooking this dish.
-
-This is a popular dish is served during special occasions. It is a regular item in every Filipino cookbook. Some consider kaldereta as the Philippines most famous beef stew.`,
-link: `https://panlasangpinoy.com/beef-kaldereta/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `Beef stewed in tomato with potato, carrot, olives, bell peppers, and liver spread. This dish is popularly known as Kaldereta.`,
-time: {
-prep: `10 Minutes`,
-cook: `1 Hour`,
-total: `1 Hour 10 Minutes`,
-},
-servings: `6 People`,
-calories: `589 kcal`,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/Txrf7b75rc8`,
-image: require(`./images/food/000000078.jpg`),
-},
-{
-id: 79,
-name: `Goat Caldereta`,
-tagalog: `Kalderetang Kambing`,
-type: [
-`Goat Dish`,
-`Meat Dish`,
-`Stew`,
-],
-special: [
-`Celebration`,
-`Fiesta`,
-`New Year`,
-`Birthday`,
-`Christmas`,
-`Special Occassion`,
-`Wedding`,
-],
-keywords: [
-`how to cook goat recipe`,
-`how to cook caldereta recipe`,
-`how to cook goat caldereta recipe`,
-`how to cook kaldereta recipe`,
-`how to cook kambing recipe`,
-`how to cook kalderetang kambing recipe`,
-`how to cook meat recipe`,
-`how to cook stew recipe`,
-`how to cook goat stew recipe`,
-],
-description: `Kalderetang Kambing is a rich, spicy, and hearty tomato-based stew made with goat meat, potatoes, and carrots. This classic Filipino dish is sure to be a crowd favorite at any special occasion or dinner party. Delicious as an appetizer with alcoholic drinks or a main dish with steamed rice!
-
-Kalderetang Kambing is a specialty dish of the Central and Northern Luzon. It’s made with adult goat meat (chevon) braised in spicy tomato sauce and liver paste with potatoes, carrots, olives, and bell peppers.`,
-link: `https://panlasangpinoy.com/stew-goat-meat-kalderetang-kambing-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: null,
-time: {
-prep: `10 Minutes`,
-cook: `1 Hour`,
-total: `1 Hour 10 Minutes`,
-},
-servings: `4g`,
-calories: `384 kcal`,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/oRz1XCKPAt8`,
-image: require(`./images/food/000000079.jpg`),
-},
-{
-id: 80,
-name: `Chicken Pochero`,
-tagalog: `Pocherong Manok`,
-type: [
-`Stew`,
-`Chicken Dish`,
-`Meat Dish`,
-`Main Course`,
-],
-special: null,
-keywords: [
-`how to cook chicken recipe`,
-`how to cook pochero recipe`,
-`how to cook chicken pochero recipe`,
-`how to cook pocherong manok recipe`,
-`how to cook manok recipe`,
-`how to cook stew recipe`,
-`how to cook chicken stew recipe`,
-`how to cook meat recipe`,
-],
-description: `Chicken Pochero is the perfect Sunday lunch! This Filipino stew is loaded with vegetables, beans, smoked sausage, and flavorful tomato broth for a delicious and filling meal!`,
-link: `https://www.kawalingpinoy.com/chicken-pochero/`,
-author: `Lalaine Manalo`,
-information: null,
-recipe: {
-details: {
-description: `Make Sunday lunch extra special with Chicken Pochero! Chockful of potatoes, saba bananas, chorizo, and vegetables, this classic Filipino stew is hearty, tasty and sure to be a family favorite!`,
-time: {
-prep: `15 Minutes`,
-cook: `40 Minutes`,
-total: `55 Minutes`,
-},
-servings: `6g`,
-calories: `853 kcal`,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/SEHzW6SqENQ`,
-image: require(`./images/food/000000080.jpg`),
-},
-{
-id: 81,
-name: `Pork Pochero`,
-tagalog: `Pocherong Baboy`,
-type: [
-`Stew`,
-`Pork Dish`,
-`Meat Dish`,
-`Main Course`,
-],
-special: [
-`Fiesta`,
-`Celebration`,
-],
-keywords: [
-`how to cook pochero recipe`,
-`how to cook pork pochero recipe`,
-`how to cook pork recipe`,
-`how to cook pocherong baboy recipe`,
-`how to cook stew recipe`,
-`how to cook pork stew recipe`,
-`how to cook meat stew recipe`,
-`how to cook meat recipe`,
-],
-special: null,
-description: `Pork Pochero Recipe makes use of Plantain Bananas (Saging na Saba) which gives any dish a sweet taste. There are also carrots in the dish which add sweet notes to the sourness of the tomato sauce in this recipe. The addition of potatoes makes the sauce starchy so it’s nice to eat it along with steamed rice. Additional water is needed too so you must prepare a broth from pork ribs or knuckles to give an umami taste to the dish. Chickpeas are included in the dish as well as garlic and onion for sauteing.`,
-link: `https://panlasangpinoy.com/pork-pochero-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `This is a recipe for pork pochero.`,
-time: {
-prep: `10 Minutes`,
-cook: `1 Hour 10 Minutes`,
-total: `1 Hour 20 Minutes`,
-},
-servings: `5 People`,
-calories: null,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: null,
-image: require(`./images/food/000000081.jpg`),
-},
-{
-id: 82,
-name: `Beef Pochero`,
-tagalog: `Pocherong Baka`,
-type: [
-`Stew`,
-`Beef Dish`,
-`Meat Dish`,
-`Main Course`,
-],
-special: [
-`Fiesta`,
-`Celebration`,
-],
-keywords: [
-`how to cook pochero recipe`,
-`how to cook beef pochero recipe`,
-`how to cook beef recipe`,
-`how to cook pocherong baka recipe`,
-`how to cook stew recipe`,
-`how to cook beef stew recipe`,
-`how to cook meat stew recipe`,
-`how to cook meat recipe`,
-],
-special: null,
-description: `Beef Pochero is a Filipino Stew similar to that of “Beef Nilaga“. This dish is complimented by the sweetness of the saba banana, and a unique sour blend is brought-in by the tomato sauce.`,
-link: `https://panlasangpinoy.com/beef-pochero/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: null,
-time: {
-prep: `12 Minutes`,
-cook: `1 Hour`,
-total: `1 Hour 12 Minutes`,
-},
-servings: `6 People`,
-calories: null,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: null,
-image: require(`./images/food/000000082.jpg`),
-},
-{
-id: 83,
-name: `Filipino Spaghetti`,
-tagalog: `Filipino Spaghetti`,
-type: [
-`Noodle Dish`,
-],
-special: [
-`Celebration`,
-`Birthday`,
-`Fiesta`,
-`New Year`,
-`Christmas`,
-`Event`,
-],
-keywords: [
-`how to cook spaghetti recipe`,
-`how to cook noodle recipe`,
-],
-special: [
-`Birthday`,
-`Celebration`,
-`Fiesta`,
-`Christmas`,
-`New Year`,
-],
-description: `Filipino Spaghetti is the Pinoy version of Spaghetti with meat sauce. This version has a sweet tomato based sauce with lots of meat ingredients such as ground pork, luncheon meat, and hotdogs. It is often served during kid’s birthday parties along with some yummy fried chicken and cake.
-
-This Filipino spaghetti version makes use of store-bought Filipino Style spaghetti sauce (this is also sometimes labeled as Filipino Style Tomato Sauce), instead of making one from scratch.`,
-link: `https://panlasangpinoy.com/filipino-style-spaghetti/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: null,
-time: {
-prep: `10 Minutes`,
-cook: `45 Minutes`,
-total: `55 Minutes`,
-},
-servings: `6 People`,
-calories: null,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: null,
-image: require(`./images/food/000000083.jpg`),
-},
-{
-id: 84,
-name: `Chicken Afritada`,
-tagalog: `Afritadang Manok`,
-type: [
-`Chicken Dish`,
-`Meat Dish`,
-`Stew`,
-],
-special: [
-`Celebration`,
-`Fiesta`,
-`Christmas`,
-`New Year`,
-`Main Course`,
-],
-keywords: [
-`how to cook chicken recipe`,
-`how to cook chicken afritada recipe`,
-`how to cook afritada recipe`,
-`how to cook manok recipe`,
-`how to cook afritadang manok recipe`,
-`how to cook meat recipe`,
-`how to cook meat stew recipe`,
-`how to cook chicken stew recipe`,
-`how to cook stew recipe`,
-],
-description: `Chicken Afritada or afritadang manok is a type of Filipino chicken stew with tomato based sauced. It is a simple dish that can be cooked on regular days. It is perfect for lunch and is better when eaten with warm white rice.`,
-link: `https://panlasangpinoy.com/chicken-afritada-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `This is a recipe for Filipino Afritadang Manok.`,
-time: {
-prep: `5 Minutes`,
-cook: `45 Minutes`,
-total: `50 Minutes`,
-},
-servings: `4 People`,
-calories: `583 kcal`,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/gKTg9ox28yI`,
-image: require(`./images/food/000000084.jpg`),
-},
-{
-id: 85,
-name: `Pork Afritada`,
-tagalog: `Afritadang Baboy`,
-type: [
-`Stew`,
-`Pork Dish`,
-`Meat Dish`,
-`Main Course`,
-],
-special: [
-`Celebration`,
-`Fiesta`,
-`Christmas`,
-`New Year`,
-`Main Course`,
-],
-keywords: [
-`how to cook pork recipe`,
-`how to cook pork afritada recipe`,
-`how to cook afritada recipe`,
-`how to cook baboy recipe`,
-`how to cook afritadang baboy recipe`,
-`how to cook meat recipe`,
-`how to cook meat stew recipe`,
-`how to cook pork stew recipe`,
-`how to cook stew recipe`,
-],
-description: `Pork Afritada is a Filipino pork stew that resembles pork menudo. It is composed of pork shoulder that are cut into 1 inch cubes, carrot, potato, and tomato sauce. This step-up recipe also includes green pea, freshly chopped tomato, and bay leaves.
-
-A warm and inviting stew, afritada is as bright in flavor as it is in appearance! One glance of that vibrant red-orange sauce, and you definitely know you’re in for a treat. Afritada brims with flavor, which you can tell quite plainly from its equally mouthwatering aroma. When it wafts through the air, it’s impossible to resist. Indeed, whether it be through sight, smell, or taste, this Filipino favorite is a festival for all your senses! With a combination of tender pork that both falls off the bone and melts in your mouth, as well as fresh and chunky vegetables, what’s not to love about pork afritada?`,
-link: `https://panlasangpinoy.com/pork-afritada-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `This is a recipe for Filipino Pork Afritada`,
-time: {
-prep: `10 Minutes`,
-cook: `1 Hour`,
-total: `1 Hour 10 Minutes`,
-},
-servings: `4 People`,
-calories: `364 kcal`,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/unoKqoBGW8w`,
-image: require(`./images/food/000000085.jpg`),
-},
-{
-id: 86,
-name: `Pata Tim`,
-tagalog: `Pata Tim`,
-type: [
-`Pork Dish`,
-`Meat Dish`,
-],
-special: null,
-keywords: [
-`how to cook pata recipe`,
-`how to cook pork recipe`,
-`how to cook meat recipe`,
-],
-description: `Pata tim is a traditional Filipino dish with Chinese influences, made with a combination of pata (pork leg), seasoning cube, bok choy, shiitake mushrooms, brown sugar, soy sauce, sesame oil, cornstarch, peppercorns, and star anise. The pork leg is broiled, boiled, drained, washed, then arranged in a cooking pot with soy sauce, sesame oil, water, and peppercorns.
-
-The combination is simmered until the pata becomes tender. The other ingredients are then added to the pot and cooked a bit more until the sauce thickens. The sauce should be mild and slightly sweet, while the pork leg should be as tender as possible.
-
-Pata tim is often served with steamed white rice on the side.`,
-link: `https://panlasangpinoy.com/pata-tim-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `Tender pork leg stew with mushroom and bok choy.`,
-time: {
-prep: `20 Minutes`,
-cook: `2 Hours`,
-total: `2 Hours 20 Minutes`,
-},
-servings: null,
-calories: null,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: null,
-},
-video: `https://youtu.be/XILrM7QUIRQ`,
-image: require(`./images/food/000000086.jpg`),
-},
-{
-id: 87,
-name: `Pancit Batil Patung`,
-tagalog: `Pansit Tuguegarao`,
-type: [
-`Noodle Dish`,
-],
-special: null,
-keywords: [
-`how to cook pansit recipe`,
-`how to cook pancit recipe`,
-`how to cook noodle recipe`,
-],
-special: null,
-description: `Pancit Batil Patung is a popular noodle dish in Tuguegarao City, Cagayan. It is composed of two parts: the noodles with toppings, and the sauce which looks like an egg drop soup. Poached egg along with sautéed meats and vegetables are topped over the fresh miki noodles, while a piece of egg is cracked and stirred-in simmering beef stock and poured in a bowl. Both components should be present when eating this dish to experience optimal flavor. The sauce is gradually poured over the noodles and meat and it is further enhanced by adding a tablespoonful or two of the chopped onion and vinegar dip.`,
-link: `https://panlasangpinoy.com/pancit-batil-patung-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: null,
-time: {
-prep: `20 Minutes`,
-cook: `40 Minutes`,
-total: `1 Hour`,
-},
-servings: `4 People`,
-calories: null,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/Csjlh1_Jvrs`,
-image: require(`./images/food/000000087.jpg`),
-},
-{
-id: 88,
-name: `Halabos na Hipon`,
-tagalog: `Halabos na Hipon`,
-type: [
-`Seafood Dish`,
-`Shrimp Dish`,
-`Appetizer`,
-],
-special: null,
-keywords: [
-`how to cook hipon recipe`,
-`how to cook shrimp recipe`,
-`how to cook seafood recipe`,
-],
-description: `Halabos na hipon is a traditional dish originating from the Philippines. This simple dish is usually made with a combination of fresh shrimp, water, and sea salt. The shrimps are gently tossed with salt in a big pan or a wok over medium to high heat.
-
-Water is added, and the shrimps are stirred and cooked until the liquid evaporates. Once done, halabos na hipon is served hot on a large plate. If desired, a bit of garlic powder, butter, or red chili flakes can be added to the dish while it's cooking.
-
-Some people also like to replace water with soda such as 7-Up or Sprite. It's recommended to serve halabos na hipon with rice and a dip based on vinegar and garlic.`,
-link: `https://panlasangpinoy.com/halabos-na-hipon-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: null,
-time: {
-prep: `5 Minutes`,
-cook: `15 Minutes`,
-total: `20 Minutes`,
-},
-servings: `4 People`,
-calories: null,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: null,
-image: require(`./images/food/000000088.jpg`),
-},
-{
-id: 89,
-name: `Pork Igado`,
-tagalog: `Igadong Baboy`,
-type: [
-`Stew`,
-`Meat Dish`,
-`Pork Dish`,
-`Offal Dish`,
-`Main Course`,
-],
-special: [
-`Ilocano`,
-`Celebration`,
-`Fiesta`,
-],
-keywords: [
-`how to cook pork recipe`,
-`how to cook pork igado recipe`,
-`how to cook igado recipe`,
-`how to cook stew recipe`,
-`how to cook pork stew recipe`,
-`how to cook offal recipe`,
-`how to cook meat recipe`,
-`how to cook meat stew recipe`,
-`how to cook offal stew recipe`,
-],
-description: `Pork Igado is an Ilocano stew made of strips of liver and pork tenderloin braised in a tangy and savory soy sauce-vinegar mixture along with spices such as garlic, onions, and bay leaves.
-
-Other innards such as kidney and heart are also common additions as well as green peas and bell peppers. Although this pork and liver dish is usually associated with pork menudo due to a few common ingredients, it’s actually closer in taste to adobo and very similar to the Kapampangan kilayin.`,
-link: `https://panlasangpinoy.com/ilocano-pork-igado-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `Stewed pork, liver, and kidney with green peas and bell pepper. This popular Filipino recipe is a must try.`,
-time: {
-prep: `10 Minutes`,
-cook: `45 Minutes`,
-total: `55 Minutes`,
-},
-servings: `4 People`,
-calories: `392 kcal`,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/CEpwExmo8tI`,
-image: require(`./images/food/000000089.jpg`),
-},
-{
-id: 90,
-name: `Chicken Igado`,
-tagalog: `Igadong Manok`,
-type: [
-`Stew`,
-`Chicken Dish`,
-`Offal Dish`,
-`Meat Dish`,
-`Main Course`,
-],
-special: [
-`Ilocano`,
-`Celebration`,
-`Fiesta`,
-],
-keywords: [
-`how to cook chicken recipe`,
-`how to cook chicken igado recipe`,
-`how to cook igado recipe`,
-`how to cook stew recipe`,
-`how to cook chicken stew recipe`,
-`how to cook offal recipe`,
-`how to cook meat recipe`,
-`how to cook meat stew recipe`,
-`how to cook offal stew recipe`,
-],
-description: `Igado, a famous Ilocano dish, has long made waves as a uniquely delicious recipe. It’s got a lovely mix of pork liver, pork tenderloin, and bay leaves, among many other spices. After all, part of what makes this recipe so great is its masterful combination of seasonings.
-
-The taste of liver tends to be off-putting to others with its more gummy texture and stronger flavor. But in this dish, it blends perfectly with the savory notes of its seasonings. And it also collaborates well with the refreshing textures of vegetables like bell peppers and carrots. This way, it doesn’t overpower, nor does it shy away from the spotlight as a deliciously salty ingredient.`,
-link: `https://panlasangpinoy.com/chicken-igado/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `Chicken liver and heart stewed in vinegar and soy sauce with bell pepper and green peas.`,
-time: {
-prep: `5 Minutes`,
-cook: `50 Minutes`,
-total: `55 Minutes`,
-},
-servings: `6 People`,
-calories: `382 kcal`,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/Srmlb6AvyUM`,
-image: require(`./images/food/000000090.jpg`),
-},
-{
-id: 91,
-name: `Bistek Tagalog`,
-tagalog: `Bistek Tagalog`,
-type: [
-`Beef Dish`,
-`Meat Dish`,
-],
-special: null,
-keywords: [
-`how to cook bistek recipe`,
-`how to cook beef recipe`,
-`how to cook meat recipe`,
-],
-description: `Bistek Tagalog is a traditional meat dish originating from the Philippines. It consists of thinly sliced beef that's marinated and braised in a combination of citrus juice (usually from lemon, lime, or calamansi fruit), onions, garlic, soy sauce, and pepper.
-
-It is believed that the dish was derived after the Spanish bistec encebollado. When properly prepared, the flavors should be savory, salty, and tangy. It's important to use only the freshest beef and the most tender cuts such as top round and sirloin.
-
-The dish is traditionally garnished with pan-fried onion rings on top and served with steamed rice on the side.`,
-link: `https://www.tasteatlas.com/bistek-tagalog`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `Beef slices cooked in soy sauce with lemon and onions. This is bistek tagalog.`,
-time: {
-prep: `1 Hour`,
-cook: `40 Minutes`,
-total: `1 Hour 40 Minutes`,
-},
-servings: `5 People`,
-calories: `279 kcal`,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/xH746HwUlbQ`,
-image: require(`./images/food/000000091.jpg`),
-},
-{
-id: 92,
-name: `Beef Nilaga`,
-tagalog: `Nilagang Baka`,
-type: [
-`Soup`,
-`Meat Soup`,
-`Meat Dish`,
-`Beef Dish`,
-],
-special: null,
-keywords: [
-`how to cook beef recipe`,
-`how to cook nilaga recipe`,
-`how to cook beef nilaga recipe`,
-`how to cook beef soup recipe`,
-`how to cook meat soup recipe`,
-`how to cook meat recipe`,
-`how to cook beef soup recipe`,
-`how to cook soup recipe`,
-],
-description: `Nilagang baka is a traditional soup originating from the Philippines. Although there are many variations, it's usually prepared with a combination of onions, beef broth, cubed beef, baby bok choy, cabbage, plantains, potatoes, celery, star anise, salt, and pepper.
-
-The soup is simmered until the beef becomes tender and the vegetables are fully cooked. Nilagang baka is especially popular on cold or rainy days, and it's always served hot. Traditionally, it's accompanied by steamed rice and fish sauce (patis). Sometimes, an extra helping of the broth is served in a separate bowl on the side.`,
-link: `https://panlasangpinoy.com/nilagang-baka-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: null,
-time: {
-prep: `10 Minutes`,
-cook: `1 Hour 12 Minutes`,
-total: `1 Hour 22 Minutes`,
-},
-servings: `6 People`,
-calories: `243 kcal`,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/gdw3n1iJyEU`,
-image: require(`./images/food/000000092.jpg`),
-},
-{
-id: 93,
-name: `Ube Halaya`,
-tagalog: `Ube Halaya`,
-type: [
-`Dessert`,
-],
-special: [
-`Fiesta`
-],
-keywords: [
-`how to cook ube recipe`,
-`how to cook halaya recipe`,
-`how to cook ube halaya recipe`,
-`how to cook dessert recipe`,
-],
-description: `Ube Halaya is a type of Filipino Dessert made from purple yam. There are quite a few ways of preparing this dish. Some Ube halaya version makes use of condensed milk to cook the yam with, while others depend on coconut milk. This version only uses 3 major ingredients: purple yam, coconut milk, and sugar. Although it sounds really simple to prepare (which is true), the outcome is something that you should look forward to.`,
-link: `https://panlasangpinoy.com/simple-ube-halaya-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: null,
-time: {
-prep: `12 Minutes`,
-cook: `30 Minutes`,
-total: `42 Minutes`,
-},
-servings: `4 People`,
-calories: null,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: null,
-image: require(`./images/food/000000093.jpg`),
-},
-{
-id: 94,
-name: `Silvanas`,
-tagalog: `Silvanas`,
-type: [
-`Snack`,
-`Cookie`,
-],
-special: null,
-keywords: [
-`how to cook silvanas recipe`,
-`how to cook snack recipe`,
-`how to cook cookie recipe`,
-],
-description: `Silvanas are the snack version of a traditional Filipino dessert known as sans rival. These frozen cookie sandwiches are made with two cashew-meringue wafers that are held together with a thick layer of buttercream and are generously coated in cashew crumbs.
-
-Although plain versions are the most common, silvanas occasionally come in various flavors such as chocolate, strawberry, mocha, or mango. Popular throughout the country, these cookies have to be refrigerated and are best served well-chilled or frozen.`,
-link: `https://www.kawalingpinoy.com/silvanas/`,
-author: `Sanna Talavera`,
-information: null,
-recipe: {
-details: {
-description: `Silvanas with meringue wafers, French buttercream filling, and ground cashew or cracker crumb coating are the ultimate cookies! Chewy, creamy, and buttery, they're seriously addicting!`,
-time: {
-prep: `1 Hour 20 Minutes`,
-cook: `20 Minutes`,
-total: `1 Hour 40 Minutes`,
-},
-servings: `13 People`,
-calories: `442 kcal`,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/A7LjK1Vljh4`,
-image: require(`./images/food/000000094.jpg`),
-},
-{
-id: 95,
-name: `Paksiw na Bangus`,
-tagalog: `Paksiw na Bangus`,
-type: [
-`Fish Dish`,
-`Seafood Dish`,
-],
-special: null,
-keywords: [
-`how to cook paksiw recipe`,
-`how to cook bangus recipe`,
-`how to cook fish recipe`,
-`how to cook seafood recipe`,
-],
-description: `Paksiw is a Filipino cooking technique that refers to various dishes that are simmered in vinegar. The method is used in the preparation of fish or meat-based dishes which can also incorporate additional ingredients such as garlic, vegetables, seasonings, and various spices.
-
-The most popular dishes that fall into this category include pork-based paksiw na baboy and paksiw na isda that employs fish as the main ingredient. Paksiw dishes are usually served with rice on the side.`,
-link: `https://panlasangpinoy.com/paksiw-na-bangus-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `This is the recipe for Paksiw na Bangus.`,
-time: {
-prep: `10 Minutes`,
-cook: `15 Minutes`,
-total: `25 Minutes`,
-},
-servings: `4 People`,
-calories: `265 kcal`,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: null,
-image: require(`./images/food/000000095.jpg`),
-},
-{
-id: 96,
-name: `Chicken Empanada`,
-tagalog: `Empanadang Manok`,
-type: [
-`Snack`,
-],
-special: null,
-keywords: [
-`how to cook chicken recipe`,
-`how to cook chicken empanada recipe`,
-`how to cook empanada recipe`,
-`how to cook empanadang manok recipe`,
-`how to cook manok recipe`,
-`how to cook snack recipe`,
-],
-description: `Chicken Empanadas are a simple yet filling and delicious turnover pastry, and despite their compact half moon size are meals in themselves. No pretense necessary –– wonderful and juicy, empanadas are the no-frill snack everyone will love.`,
-link: `https://panlasangpinoy.com/filipino-cuban-spanish-food-chicken-empanada-picadillo-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `Turnover with chicken filling.`,
-time: {
-prep: `15 Minutes`,
-cook: `40 Minutes`,
-total: `55 Minutes`,
-},
-servings: `6 People`,
-calories: `777 kcal`,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/ICKxFn_UJ-0`,
-image: require(`./images/food/000000096.jpg`),
-},
-{
-id: 97,
-name: `Pork Empanada`,
-tagalog: `Empanadang Baboy`,
-type: [
-`Snack`,
-],
-special: null,
-keywords: [
-`how to cook pork recipe`,
-`how to cook pork empanada recipe`,
-`how to cook empanada recipe`,
-`how to cook empanadang baboy recipe`,
-`how to cook baboy recipe`,
-`how to cook snack recipe`,
-],
-description: `Pork Empanada is a type of pastry that has been stuffed with pork. Pork Empanada are the perfect weeknight meal idea or great for appetizers for parties or potlucks. These delicious stuffed bread pastries filled with tasty pork and vegetables — either served fried or baked.`,
-link: `https://panlasangpinoy.com/pork-empanada-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `This is a recipe for Pork Empanada Recipe.`,
-time: {
-prep: `30 Minutes`,
-cook: `45 Minutes`,
-total: `1 Hour 15 Minutes`,
-},
-servings: `6 People`,
-calories: null,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-{ name: 'Serving', amount: '6g' },
-],
-},
-video: `https://youtu.be/tBs8xGxZz78`,
-image: require(`./images/food/000000097.jpg`),
-},
-{
-id: 98,
-name: `Beef Empanada`,
-tagalog: `Empanadang Baka`,
-type: [
-`Snack`,
-],
-special: null,
-keywords: [
-`how to cook beef recipe`,
-`how to cook beef empanada recipe`,
-`how to cook empanada recipe`,
-`how to cook empanadang baka recipe`,
-`how to cook baka recipe`,
-`how to cook snack recipe`,
-],
-description: `Beef Empanadas (also called empanadas) is a type of ground beef turnover. Empanada is of Hispanic influence which was adopted by the colonies and prepared according to the local preference. For example, the empanada in Spain is not exactly the same as those in Latin American countries, and even in the Philippines. This Beef Empanadas Recipe will give you a straightforward explanation ofwhat an empanada should be.`,
-link: `https://panlasangpinoy.com/beef-empanadas-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: null,
-time: {
-prep: `10 Minutes`,
-cook: `30 Minutes`,
-total: `40 Minutes`,
-},
-servings: `4 People`,
-calories: null,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-{ name: 'Serving', amount: '4g' },
-],
-},
-video: null,
-image: require(`./images/food/000000098.jpg`),
-},
-{
-id: 100,
-name: `Laing na Gabi`,
-tagalog: `Laing na Gabi`,
-type: [
-`Vegetable Dish`,
-`Main Course`,
-],
-special: null,
-keywords: [
-`how to cook bicol laing recipe`,
-`how to cook laing recipe`,
-`how to cook vegetable recipe`,
-`how to cook gabi recipe`,
-],
-description: `Laing is considered to be a staple in most Bicolano homes. This laing recipe is simple-to-follow and uses readily-available ingredients from the grocery. Making it at home is easy and fuss-free! You could adjust the taste accordingly by adding more shrimp paste or chili peppers. Substituting the pork slices with dried fish is also a healthy alternative to this dish.
-
-Laing is primarily made up of dried taro (gabi) leaves simmered slowly in coconut milk. Remember to cook this dish low and slow so that all the flavors can come together. This dish is typically enjoyed with a serving of rice but puto or toasted bread works, too!`,
-link: `https://panlasangpinoy.com/laing-na-gabi-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `This is a recipe for Filipino Laing (taro leaves cooked in coconut milk)`,
-time: {
-prep: `5 Minutes`,
-cook: `1 Hour`,
-total: `1 Hour 5 Minutes`,
-},
-servings: `6 People`,
-calories: `12 kcal`,
-},
-ingredients: [
-
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/igh6iitJaYo`,
-image: require(`./images/food/000000099.jpg`),
-},
-{
-id: 99,
-name: `Laing na Gabi`,
-tagalog: `Laing na Gabi`,
-type: [
-`Vegetable Dish`,
-`Main Course`,
-],
-special: null,
-keywords: [
-`how to cook bicol laing recipe`,
-`how to cook laing recipe`,
-`how to cook vegetable recipe`,
-`how to cook gabi recipe`,
-],
-description: `Laing is considered to be a staple in most Bicolano homes. This laing recipe is simple-to-follow and uses readily-available ingredients from the grocery. Making it at home is easy and fuss-free! You could adjust the taste accordingly by adding more shrimp paste or chili peppers. Substituting the pork slices with dried fish is also a healthy alternative to this dish.
-
-Laing is primarily made up of dried taro (gabi) leaves simmered slowly in coconut milk. Remember to cook this dish low and slow so that all the flavors can come together. This dish is typically enjoyed with a serving of rice but puto or toasted bread works, too!`,
-link: `https://panlasangpinoy.com/laing-na-gabi-recipe/`,
-author: `Vanjo Merano`,
-information: null,
-recipe: {
-details: {
-description: `This is a recipe for Filipino Laing (taro leaves cooked in coconut milk)`,
-time: {
-prep: `5 Minutes`,
-cook: `1 Hour`,
-total: `1 Hour 5 Minutes`,
-},
-servings: `6 People`,
-calories: `12 kcal`,
-},
-ingredients: [
-    
-],
-instructions: [
-
-],
-nutrition: [
-
-],
-},
-video: `https://youtu.be/igh6iitJaYo`,
-image: require(`./images/food/000000099.jpg`),
-},
-];
+]
 
 
 /**************************************************************************************************************
