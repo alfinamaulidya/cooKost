@@ -17,7 +17,7 @@ export default function DiscoverSeeAll({ navigation, route, foodType }){
         <Icon
           type="material-icons"
           name="navigate-next"
-          color="#ff4040"
+          color="#FFA38E"
         />
       </TouchableOpacity>
     </View>
@@ -28,9 +28,9 @@ const styles = StyleSheet.create({
   seeAllWrapper: {
   },
   seeAllContainer: {
-    backgroundColor: "white",
+    backgroundColor: "#FFD3C9",
     borderWidth: 0.5,
-    borderColor: "#4441",
+    borderColor: "#FFD3C9",
     borderRadius: 64,
     overflow: "hidden",
     flex: 1,

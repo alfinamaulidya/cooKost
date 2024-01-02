@@ -80,7 +80,7 @@ const styles = StyleSheet.create({
     height: 48,
     overflow: 'hidden',
     maxHeight: 64,
-    backgroundColor: '#ffc0c0',
+    backgroundColor: '#FFA38E',
   },
   informationLabelContainer: {
     flex: 1,

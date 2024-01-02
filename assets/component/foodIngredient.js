@@ -85,13 +85,13 @@ const styles = StyleSheet.create({
   ingredientNumberContainer: {
     height: 112,
     width: 48,
-    backgroundColor: '#36C464',
+    backgroundColor: '#FFD3C9',
   },
   ingredientNumber: {
     fontSize: 24,
     fontWeight: 'bold',
     color: 'white',
-    backgroundColor: '#FFC02D',
+    backgroundColor: '#FFA38E',
     aspectRatio: 1,
     textAlign: 'center',
     textAlignVertical: 'center',

@@ -27,7 +27,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "authentic_pinoy_recipes",
+    "name": "cooKost",
     "version": "1.4.2",
     "main": "node_modules/expo/AppEntry.js",
     "scripts": {

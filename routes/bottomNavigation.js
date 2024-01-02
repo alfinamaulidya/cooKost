@@ -17,8 +17,8 @@ export default function BottomNavigator(){
         initialRouteName="DiscoverStack"
         screenOptions={{
           headerShown: false,
-          tabBarActiveTintColor: "#36C464",
-          tabBarActiveBackgroundColor: "#0801",
+          tabBarActiveTintColor: "#F88383",
+          tabBarActiveBackgroundColor: "#FDE7E7",
           tabBarStyle: {
             height: 70,
           },
