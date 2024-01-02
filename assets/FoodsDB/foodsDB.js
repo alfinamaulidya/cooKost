@@ -6419,7 +6419,7 @@ image: require(`./images/food/000000050.jpg`),
 {
 id: 51,
 name: `Potato Cheese Ball`,
-tagalog: `Snack`,
+tagalog: `Vegetarian, Free Sugar`,
 type: [
 `Snack`,
 `Street Food`,
@@ -6443,7 +6443,20 @@ keywords: [
 description: `Potato Cheese Ball adalah camilan lezat berbentuk bola yang terbuat dari campuran kentang, tepung, tepung roti, mozarella, dan telur. Setelah dicampur, adonan dibentuk bulat dan dilapisi tepung roti sebelum digoreng untuk menciptakan tekstur renyah. Cheese Ball merupakan pilihan camilan yang nikmat dengan rasa keju yang menggoda.`,
 link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Anda dapat bereksperimen dengan resep Potato Cheese Ball untuk menciptakan variasi yang menarik. Misalnya, tambahkan potongan sayuran seperti paprika merah atau hijau ke dalam adonan untuk memberikan sentuhan warna dan rasa segar. Untuk opsi protein alternatif, pertimbangkan menggunakan tahu atau tempe yang dihaluskan sebagai pengganti telur. Jika Anda menginginkan variasi rasa, tambahkan rempah-rempah seperti oregano, basil, atau merica ke dalam adonan. Selain itu, untuk kesehatan tambahan, pertimbangkan menggunakan keju rendah lemak atau keju feta sebagai alternatif keju mozzarella.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Untuk hasil yang sempurna, pastikan adonan tercampur rata dan bulatkan bola dengan hati-hati agar tekstur setelah digoreng merata. Gunakan minyak panas yang cukup dan goreng bola kentang keju hingga berwarna keemasan. Pastikan untuk menggoreng dalam jumlah kecil agar bola kentang matang secara merata. Setelah digoreng, letakkan bola kentang keju di atas kertas serap untuk menyerap kelebihan minyak.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Potato Cheese Ball cocok disajikan sebagai camilan lezat di acara santai, seperti pesta teman atau kumpul keluarga. Hidangan ini juga menjadi pilihan yang populer sebagai pembuka sebelum makan malam atau makan siang. Untuk variasi, sajikan dengan saus tomat atau saus mayo yang dicampur dengan rempah-rempah. Dengan kelezatan dan kemudahan penyajiannya, Potato Cheese Ball bisa menjadi favorit di berbagai kesempatan.`,
+    },
+],
 recipe: {
 details: {
 description: `Kelezatan yang Lumer, Keju Mengalir dalam Setiap Gigitan!`,
@@ -6542,7 +6555,7 @@ image: require(`./images/food/000000051.jpg`),
 {
 id: 52,
 name: `Tofu diet`,
-tagalog: ``,
+tagalog: `High Protein, Low Carbo`,
 type: [
 `Soup`,
 `Breakfast`,
@@ -6561,7 +6574,20 @@ keywords: [
 description: `hidangan ringan dan rendah kalori yang menggabungkan kelezatan tofu dengan beragam sayuran sehat. Dengan bahan utama tofu yang kaya protein dan rendah lemak, soup ini memberikan rasa lezat dan kenyang tanpa banyak kalori. Tofu Diet Soup tidak hanya memanjakan lidah, tetapi juga merupakan pilihan makanan sehat untuk mendukung pola makan rendah kalori dan tinggi nutrisi.`,
 link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Dalam menciptakan variasi resep sup tofu diet, Anda bisa mengganti protein ayam dengan opsi nabati seperti tempe, tahu, atau edamame untuk memberikan sentuhan yang lebih ringan dan sehat. Tambahkan berbagai sayuran, seperti bayam atau kangkung, agar sup lebih kaya akan nutrisi dan serat. Eksperimen dengan bumbu tambahan, seperti jahe, ketumbar, atau serai, untuk memberikan kompleksitas rasa yang berbeda. Jika ingin mengurangi asupan garam, pertimbangkan penggunaan kecap asin rendah garam atau alternatif tanpa garam tambahan.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, pastikan untuk memberikan sedikit pemanggangan pada tofu sebelum ditambahkan ke dalam sup untuk mendapatkan tekstur yang lebih renyah. Potong sayuran dalam ukuran seragam agar matang merata dan tetap memiliki kelezatan. Sesuaikan jumlah kecap asin, bawang putih, dan lada hitam sesuai dengan selera Anda untuk menciptakan sup tofu diet yang lezat dan sesuai dengan preferensi pribadi.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Sup tofu ini cocok disajikan sebagai hidangan utama pada berbagai kesempatan. Kelezatan dan keberagaman nutrisinya membuatnya menjadi pilihan yang ideal untuk santap siang atau makan malam bersama keluarga. Selain itu, sup ini bisa menjadi pilihan yang hangat dan menyehatkan untuk dinikmati di hari-hari yang sejuk. Dengan keberagaman bahan dan rasa yang dihadirkan, sup tofu diet ini dapat disesuaikan dengan berbagai situasi, menjadikannya pilihan yang fleksibel untuk dinikmati kapan saja.`,
+    },
+],
 recipe: {
 details: {
 description: `nikmati selagi hangat!`,
@@ -6666,8 +6692,8 @@ image: require('./images/food/000000052.jpg'),
 },
 {
 id: 53,
-name: `Salad Buah Saus Yogurt`,
-tagalog: `low sugar`,
+name: `Salad Buah Yogurt`,
+tagalog: `Vegeterian, Natural`,
 type: [
 `Appetizer`,
 `Breakfast`,
@@ -6691,9 +6717,26 @@ keywords: [
 description: `Salad Buah dengan Saus Yogurt dan Keju adalah perpaduan segar dan lezat dari berbagai buah-buahan, termasuk pisang, semangka, melon, apel, dan buah naga, yang dipadukan dengan saus yogurt lembut dan disajikan dengan sentuhan gurih keju parmesan atau keju cheddar parut.
 
 Hidangan ini tidak hanya menggugah selera dengan kombinasi buah yang beragam, tetapi juga memberikan nuansa kelezatan ekstra melalui kehadiran keju yang menyatu dengan saus yogurt.`,
-link: `https://panlasangpinoy.com/arroz-caldo/`,
-author: `Vanjo Merano`,
-information: null,
+link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
+author: `cooKost`,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Dalam menciptakan variasi resep salad buah yogurt, Anda dapat mengganti atau menambahkan beberapa bahan untuk memberikan sentuhan kreatif dan rasa yang lebih beragam. Sebagai contoh, Anda bisa menambahkan buah-buahan lain seperti stroberi, anggur, atau kiwi untuk menyediakan lebih banyak pilihan rasa dan tekstur.
+
+    Selain itu, untuk variasi pada unsur protein, pertimbangkan untuk menggunakan jenis yogurt berbeda, seperti yogurt Greek untuk kekentalan dan protein ekstra, atau yogurt tanpa lemak untuk opsi rendah lemak. Gantilah keju dengan varietas keju rendah lemak atau feta untuk memberikan sentuhan rasa yang unik.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam hal penyajiannya, pertimbangkan untuk menambahkan taburan biji-bijian seperti chia seeds atau granola untuk memberikan kelezatan tambahan dan tekstur yang menarik. Anda juga dapat memikirkan untuk menambahkan sedikit madu atau sirup maple sebagai pemanis alami yang lebih ringan.
+
+    Dalam proses menciptakan salad ini, pastikan untuk memotong buah-buahan dalam potongan seragam agar salad terlihat menarik dan mudah dinikmati. Sesuaikan jumlah yogurt dan keju sesuai dengan preferensi rasa Anda.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Dengan variasi ini, salad buah yogurt Anda akan memiliki keberagaman yang lebih besar dalam rasa, tekstur, dan nutrisi, membuatnya menjadi hidangan yang lebih menarik dan memuaskan. Cocok untuk disajikan sebagai sarapan sehat, camilan, atau hidangan pencuci mulut yang menyegarkan.`,
+    },
+],
 recipe: {
 details: {
 description: ` Salad ini merupakan pilihan segar dan menyehatkan untuk dinikmati sebagai camilan atau hidangan ringan.`,
@@ -6718,35 +6761,35 @@ name: `semangka`,
 amount: `150gr`,
 tagalog: null,
 type: `irisan dadu`,
-image: ``,
+image: `watermelon`,
 },
 {
 name: `melon`,
 amount: `75gr`,
 tagalog: null,
 type: `irisan dadu`,
-image: ``,
+image: `melon`,
 },
 {
 name: `apel`,
 amount: `100gr`,
 tagalog: null,
 type: `irisan dadu`,
-image: ``,
+image: `apple`,
 },
 {
 name: `buah naga`,
 amount: `1/4`,
 tagalog: null,
 type: `irisan dadu`,
-image: ``,
+image: `dragon-fruit`,
 },
 {
 name: `yogurt`,
 amount: `100gr`,
 tagalog: null,
 type: ``,
-image: ``,
+image: `yogurt`,
 },
 {
 name: `keju`,
@@ -6811,7 +6854,20 @@ description: `Sandwich ham keju dan telur adalah kombinasi penuh cita rasa yang 
 Sandwich ini tidak hanya memuaskan selera dengan kelezatan daging ham dan keju yang meleleh, tetapi juga memberikan kelembutan dan kaya protein dari telur. `,
 link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Dalam menciptakan variasi sandwich ham yang lezat, Anda dapat mengganti beberapa bahan untuk memberikan sentuhan kreatif dan rasa yang lebih beragam. Sebagai alternatif pada roti, Anda bisa memilih roti gandum utuh untuk opsi yang lebih sehat atau mencoba roti multigrain untuk tambahan serat dan nutrisi. Untuk pengganti ham, daging ayam panggang atau turkey dapat dipilih sebagai opsi rendah lemak. Pilih keju rendah lemak atau keju tanpa lemak sebagai alternatif keju, atau eksplorasi keju feta atau keju biru untuk rasa yang lebih kuat. Saus tomat dapat digantikan dengan saus pesto untuk memberikan sentuhan rasa yang berbeda, dan mentega dapat diterapkan sebagai avocado mashed atau hummus untuk variasi nutrisi dan citarasa.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, penting untuk memperhatikan teknik panggang atau penggorengan sandwich untuk mencapai tekstur yang renyah pada roti dan keju yang meleleh. Anda dapat menyesuaikan waktu dan suhu agar sandwich ham menjadi sempurna. Tips tambahan adalah menambahkan sayuran segar seperti selada, tomat, atau timun untuk memberikan kesegaran pada sandwich.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Sandwich ham ini cocok disajikan sebagai sarapan cepat, makan siang, atau camilan yang memuaskan. Anda dapat menikmatinya kapan saja sebagai hidangan yang praktis dan lezat, sesuai dengan selera dan preferensi nutrisi Anda.`,
+    },
+],
 recipe: {
 details: {
 description: `Cocok dinikmati sebagai sarapan yang cepat, makan siang, atau camilan yang memuaskan di setiap gigitannya.`,
@@ -6889,7 +6945,7 @@ image: require('./images/food/000000054.jpg'),
 {
 id: 55,
 name: `Sup Kimchi Tahu`,
-tagalog: `Low Fat, Lactose Free`,
+tagalog: `Low Fat, Vegetarian`,
 type: [
 `Soup`,
 `Side Dish`,
@@ -6920,7 +6976,20 @@ description: `Sup Kimchi Tahu adalah hidangan lezat yang memadukan cita rasa ped
 Air kimchi dan minyak wijen menjadi cairan penyedap yang memberikan dimensi rasa ekstra ke dalam sup. Dengan tambahan garam dan lada hitam secukupnya, hidangan ini menjadi seimbang antara pedas, gurih, dan lembut. Sup Kimchi Tahu adalah pilihan yang sempurna untuk pencinta masakan yang kaya rasa dan menggugah selera.`,
 link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Sebagai alternatif bahan dalam Sup Kimchi Tahu, Anda dapat mengeksplorasi berbagai opsi untuk memberikan variasi rasa dan nutrisi. Gantilah daging sapi dengan potongan daging ayam atau udang untuk variasi protein. Anda juga bisa mencoba menggunakan tahu sutra atau tahu putih sebagai pengganti tahu biasa untuk tekstur yang berbeda. Jika daun pre tidak tersedia, daun bawang atau bayam bisa menjadi alternatif yang segar. Untuk sentuhan ekstra, pertimbangkan menambahkan jamur seperti shiitake atau enoki.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, pastikan untuk menambahkan kimchi tahu setelah daging atau bahan protein lainnya telah dimasak agar tahu tetap lembut. Jika ingin mengontrol tingkat kepedasan, tambahkan bubuk cabe sesuai selera atau gunakan saus sambal sebagai alternatif. Jangan lupa mencoba rasa sup dan sesuaikan garam, lada, atau bahkan sedikit gula jika diperlukan untuk mencapai keseimbangan rasa yang sempurna.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Sup Kimchi Tahu ini cocok dinikmati sepanjang tahun, tetapi terutama menyenangkan di musim dingin karena kehangatan dan kepedasannya. Hidangan ini dapat menjadi pilihan yang cepat dan lezat untuk makan siang atau makan malam. Sajikan sup dengan nasi putih hangat atau mie untuk pengalaman makan yang lebih lengkap.`,
+    },
+],
 recipe: {
 details: {
 description: `Cocok disajikan sebagai hidangan hangat untuk menikmati kehangatan di setiap sendokannya.`,
@@ -7033,7 +7102,7 @@ image: require('./images/food/000000055.jpg'),
 {
 id: 56,
 name: `Strawberry Sandwich`,
-tagalog: `Low Fat, Lactose-Free`,
+tagalog: `Low Fat, Vegetarian`,
 type: [
 `Sweet`,
 `Cake`,
@@ -7052,9 +7121,22 @@ keywords: [
 `gula pasir`,
 ],
 description: `Strawberry Sandwich adalah hidangan yang menyegarkan dan manis, menggabungkan kelezatan buah strawberry dengan kelembutan roti. Dengan irisan strawberry segar yang ditempatkan di atas roti yang lembut, hidangan ini menawarkan kombinasi cita rasa manis dan tekstur yang memikat. Strawberry Sandwich dapat menjadi pilihan sempurna untuk makanan ringan atau sarapan yang sehat dan lezat. `,
-link: `https://www.tasteatlas.com/atchara`,
+link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Untuk menciptakan variasi Strawberry Sandwich yang menarik, Anda dapat mengeksplorasi alternatif bahan untuk memberikan sentuhan kreatif pada hidangan ini. Sebagai alternatif roti tawar biasa, coba gunakan roti artisanal, roti gandum, atau bahkan croissant untuk variasi tekstur dan rasa. Selain itu, untuk pengganti gula pasir, pertimbangkan menggunakan madu, sirup maple, atau gula kelapa sebagai pemanis alami yang berbeda.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, pastikan untuk memotong strawberry dengan ukuran seragam agar mudah dinikmati dalam setiap gigitan. Jika memungkinkan, panggang sebentar roti sebelum menyusun sandwich untuk memberikan kelezatan tambahan dan memberikan tekstur yang lebih kompleks. Selain itu, pastikan whipping cream memiliki konsistensi yang tepat agar dapat diberikan dengan rapi pada sandwich. Jangan lupa untuk menyimpan sandwich di lemari es jika tidak segera disajikan untuk menjaga kesegaran isian.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Strawberry Sandwich ini cocok dinikmati sepanjang tahun, terutama pada musim panas ketika strawberry segar berlimpah. Hidangan ini merupakan pilihan yang sempurna untuk sarapan ringan, camilan siang, atau makan penutup setelah makan malam. Nikmatilah sandwich ini bersama secangkir teh atau kopi untuk pengalaman santai yang menyegarkan.`,
+    },
+],
 recipe: {
 details: {
 description: `Nikmati kelezatan buah segar dalam setiap gigitan!`,
@@ -7115,12 +7197,12 @@ nutrition: [
     { name: 'Vitamin C', amount: '40mg' },
 ],
 },
-video: `https://youtu.be/ItPtbiJQH5w`,
+video: `https://youtu.be/lDlYpIWA20I?si=WQOom8CFbznnCfZK`,
 image: require('./images/food/000000056.webp'),
 },
 {
 id: 57,
-name: `salad mie dan ikan sarden`,
+name: `salad mie sarden`,
 tagalog: ``,
 type: [
 `Main Course`,
@@ -7142,9 +7224,22 @@ keywords: [
 `bawang bombai`,
 ],
 description: `Salad Mie dan Ikan Sarden adalah hidangan yang menyegarkan dan mudah disiapkan. Kombinasi antara mie instan yang lezat, ikan sarden yang kaya protein, dan sayuran segar memberikan cita rasa yang seimbang dan gizi yang baik.`,
-link: `https://panlasangpinoy.com/pork-menudo-recipe/`,
+link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Untuk memberikan variasi pada Salad Mie Sarden, Anda dapat mengeksplorasi alternatif bahan untuk menciptakan hidangan yang lebih beragam. Sebagai alternatif pada mie instan biasa, Anda bisa mencoba mie soba, mie beras, atau mie telur untuk menciptakan dimensi rasa dan tekstur yang berbeda. Gantilah ikan sarden dengan ikan tuna kalengan atau ikan salmon untuk variasi protein, atau bahkan tambahkan potongan telur rebus untuk kandungan protein tambahan. Cabe dapat diganti dengan paprika merah atau kuning untuk sentuhan warna dan rasa yang berbeda.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, pastikan untuk memasak mie sesuai petunjuk pada kemasan dan bilas dengan air dingin agar mie cepat dingin dan tidak lengket. Saat menyajikan ikan sarden, pastikan untuk menggulungnya atau memecahnya menjadi potongan-potongan kecil untuk meratakan rasa ikan dalam salad. Gunakan dressing yang sesuai dengan selera Anda, seperti dressing lemon, balsamic, atau miso untuk memberikan dimensi rasa yang lebih kaya pada salad. Untuk tambahan kerenyahan, taburkan potongan kacang panggang atau wijen panggang di atas salad.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Salad Mie Sarden ini bisa dinikmati sebagai makan siang yang ringan atau sebagai hidangan utama pada malam hari. Cocok untuk disajikan di musim panas karena kesegaran dan kepraktisannya. Salad ini juga merupakan opsi yang baik untuk dibawa bekal saat bepergian atau piknik. Jangan ragu untuk menikmatinya sebagai hidangan penyegar dalam cuaca hangat atau sebagai alternatif makanan ringan dan sehat.`,
+    },
+],
 recipe: {
 details: {
 description: `Nikmati hidangan segar ini kapan saja!`,
@@ -7220,7 +7315,7 @@ nutrition: [
     { name: 'Vitamin C', amount: '2mg' },
 ],
 },
-video: `https://youtu.be/__fWaOyChPw`,
+video: `https://youtu.be/NOAKNDLM5Qw?si=MJQsgexqymDtzLG-`,
 image: require('./images/food/000000057.webp'),
 },
 {
@@ -7242,9 +7337,22 @@ keywords: [
 `kecap ikan`,
 ],
 description: `hidangan yang sederhana dan lezat, memadukan rasa lembut telur dadar dengan tahu, daun bawang, dan kecap asin yang memberikan sentuhan gurih. Cocok untuk hidangan sarapan atau makanan penutup ringan.`,
-link: `https://panlasangpinoy.com/batchoy/`,
+link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Untuk menciptakan variasi yang menarik pada Sop Telur Dadar, Anda dapat menggantikan beberapa bahan utama atau menambahkan elemen baru untuk memberikan dimensi rasa yang lebih beragam. Sebagai alternatif pada telur dadar, Anda dapat mencoba menambahkan telur rebus yang dipotong menjadi setengah atau potongan tahu goreng untuk memberikan tekstur yang berbeda. Gantilah daun bawang dengan daun ketumbar atau seledri untuk aroma dan rasa yang lebih segar. Kecap asin dapat diganti dengan saus soyu untuk variasi rasa yang lebih ringan, dan kecap ikan bisa digantikan dengan saus teriyaki atau saus hoisin untuk sentuhan oriental yang berbeda.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, pastikan untuk memasukkan telur dadar atau telur rebus ke dalam sup saat-saat terakhir agar tetap lembut dan tidak terlalu matang. Jika menambahkan tahu, goreng tahu terlebih dahulu untuk mendapatkan tekstur yang renyah sebelum dimasukkan ke dalam sup. Saat menyajikan, taburkan daun ketumbar atau seledri segar untuk memberikan sentuhan segar pada hidangan.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Sop Telur Dadar ini cocok dinikmati sebagai hidangan hangat pada waktu makan siang atau makan malam. Hidangan ini sangat sesuai untuk cuaca sejuk atau sebagai hidangan penyegar di musim dingin. Selain itu, sop ini juga bisa menjadi alternatif yang lezat untuk santapan sehari-hari atau hidangan yang cocok disajikan saat perut sedang tidak begitu lapar.`,
+    },
+],
 recipe: {
 details: {
 description: `Persiapkan dan masak dengan waktu relatif cepat. Sup telur dadar siap disajikan.`,
@@ -7344,13 +7452,13 @@ nutrition: [
     { name: 'Vitamin C', amount: '300 IU' },
 ],
 },
-video: `https://youtu.be/RV3b39V18Nk`,
+video: `https://youtu.be/3Rata1jRgKY?si=PQhY7e1ig1q03X5q`,
 image: require('./images/food/000000058.webp'),
 },
 {
 id: 59,
-name: `bola-bola mie daging`,
-tagalog: ``,
+name: `Bola Mie Daging`,
+tagalog: `High Protein, Sugar Free`,
 type: [
 `Snack`,
 `Street Food`,
@@ -7371,9 +7479,22 @@ keywords: [
 `selederi`,
 ],
 description: `Bola-Bola Daging dengan Mie Instan adalah hidangan yang lezat dan gizi tinggi. Gabungan daging sapi, telur, dan mie instan memberikan kelezatan yang memuaskan. Bumbu kecap asin, bawang putih, dan seledri memberikan cita rasa yang kaya dan segar.`,
-link: `https://panlasangpinoy.com/pinoy-street-food-orange-egg-tokneneng-qwek-kwek-kwek-recipe/`,
+link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Untuk memberikan variasi pada Bola-Bola Mie Daging, Anda dapat mencoba alternative ingredient untuk menciptakan hidangan yang lebih beragam. Sebagai alternatif pada mie instan daging sapi, Anda bisa menggunakan mie soba, mie beras, atau mie telur untuk variasi tekstur dan rasa yang berbeda. Gantilah daging sapi dengan daging ayam cincang atau daging sapi giling untuk menciptakan dimensi rasa yang berbeda. Telur bisa diganti dengan telur bebek atau tambahkan telur puyuh untuk tampilan yang menarik. Jika ingin sentuhan pedas, tambahkan cabe rawit atau saus sambal sebagai alternatif lada.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, pastikan untuk mencampurkan bahan dengan merata untuk mendapatkan tekstur yang konsisten pada bola-bola mie. Anda dapat mengukus bola-bola mie atau menggorengnya untuk menciptakan variasi cara memasak yang menarik. Saat mencampur adonan, aduk searah agar bumbu dan rempah meresap dengan baik ke dalam daging dan mie. Jangan lupa memasukkan bawang putih dan seledri cincang halus untuk memberikan aroma yang harum dan menyegarkan.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Bola-Bola Mie Daging ini bisa dinikmati sebagai hidangan utama pada waktu makan siang atau makan malam. Hidangan ini cocok untuk disajikan sebagai menu keluarga yang menggugah selera atau hidangan untuk tamu. Anda juga dapat menikmati bola-bola mie ini sebagai camilan lezat saat bersantai di rumah atau sebagai hidangan pembuka dalam acara pesta.`,
+    },
+],
 recipe: {
 details: {
 description: `Hidangkan segera, taburi dengan seledri cincang untuk hiasan.`,
@@ -7474,13 +7595,13 @@ nutrition: [
     { name: 'Vitamin C', amount: '10mg' },
 ],
 },
-video: null,
+video: `https://youtu.be/BGutiW5yCjE?si=A3cDsl7iesXOX0Ce`,
 image: require('./images/food/000000059.webp'),
 },
 {
 id: 60,
 name: `spaghetti sosis`,
-tagalog: ``,
+tagalog: `Low Sugar, Low Fat`,
 type: [
 `Main Course`,
 `Breakfast`,
@@ -7488,7 +7609,7 @@ type: [
 ],
 special: null,
 keywords: [
-`bagaimana cara memasak bola-bola mie daging`,
+`bagaimana cara memasak spaghetti sosis`,
 `spaghetti sosis tomat bawang bombai minyak sayur gula pasir saus tomat lada garam`,
 `spaghetti`,
 `sosis`,
@@ -7501,9 +7622,22 @@ keywords: [
 `garam`,
 ],
 description: `Spaghetti Sosis adalah hidangan pasta yang lezat dengan saus tomat kaya rasa, sosis gurih, dan campuran bumbu yang menyatu. Cocok untuk menu makan malam cepat dan praktis.`,
-link: `https://panlasangpinoy.com/easy-champorado-recipe/`,
+link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Untuk memberikan variasi pada Spaghetti Sosis, Anda dapat mencoba alternative ingredient untuk menciptakan hidangan yang lebih beragam. Sebagai alternatif pada sosis biasa, Anda bisa menggunakan sosis ayam, sosis vegetarian, atau sosis daging sapi yang diawetkan untuk memberikan dimensi rasa yang berbeda. Gantilah saus tomat dengan saus pesto atau saus bolognese untuk variasi rasa yang lebih kompleks. Bawang bombai dapat diganti dengan bawang putih atau bawang pre untuk sentuhan aroma yang berbeda.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, pastikan untuk memasak spaghetti sesuai petunjuk pada kemasan hingga al dente untuk mendapatkan tekstur yang tepat. Saat menumis bawang bombai, pastikan untuk memasaknya hingga harum dan keemasan sebelum menambahkan sosis dan saus tomat. Jika ingin menambahkan sentuhan pedas, tambahkan lada merah atau lada hitam sesuai selera. Jangan lupa mencicipi dan sesuaikan garam dan gula untuk mencapai keseimbangan rasa yang sempurna.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Spaghetti Sosis ini bisa dinikmati sebagai hidangan utama dalam waktu makan malam bersama keluarga atau teman-teman. Hidangan ini cocok untuk disajikan dalam acara santai atau pesta, dan bisa menjadi pilihan yang lezat untuk hidangan akhir pekan. Spaghetti Sosis juga bisa menjadi menu praktis dan memuaskan pada hari-hari yang sibuk ketika Anda ingin menyiapkan hidangan yang cepat dan enak.`,
+    },
+],
 recipe: {
 details: {
 description: null,
@@ -7603,13 +7737,13 @@ nutrition: [
     { name: 'Vitamin C', amount: '15mg' },
 ],
 },
-video: null,
+video: `https://youtu.be/lS8wRIBiRiM?si=sJIJf-HJ9y5eDNFA`,
 image: require('./images/food/000000060.webp'),
 },
 {
 id: 61,
-name: `nasi goreng telur sosis`,
-tagalog: ``,
+name: `nasi goreng sosis`,
+tagalog: `Sugar Free`,
 type: [
 `Main Course`,
 `Breakfast`,
@@ -7629,9 +7763,22 @@ keywords: [
 `kecap asin`,
 ],
 description: `Nasi Goreng Telur Sosis adalah hidangan Indonesia yang lezat dan penuh cita rasa. Dalam hidangan ini, nasi digoreng bersama telur dan sosis, menciptakan kombinasi yang menggugah selera.`,
-link: `https://panlasangpinoy.com/beef-holiday-christmas-new-year-food-menu-morcon-recipe/`,
+link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Untuk memberikan variasi pada Nasi Goreng Telur Sosis, Anda dapat mencoba alternative ingredient untuk menciptakan hidangan yang lebih beragam. Sebagai alternatif pada sosis, Anda bisa menggunakan sosis ayam, sosis vegetarian, atau daging sosis sapi yang diawetkan untuk menciptakan dimensi rasa yang berbeda. Gantilah kecap asin dengan saus soyu atau kecap manis untuk variasi cita rasa yang lebih ringan atau manis. Selain itu, Anda dapat menambahkan sayuran seperti wortel parut, kacang polong, atau jagung untuk memberikan tambahan warna, tekstur, dan nutrisi pada nasi goreng.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, pastikan untuk menggunakan nasi dingin yang sudah dingin semalam untuk menghasilkan nasi goreng yang renyah dan tidak lengket. Ketika menumis sosis, pastikan untuk memasaknya hingga kecokelatan sebelum menambahkan nasi dan telur. Untuk memberikan sentuhan ekstra pada rasa, Anda dapat menambahkan bawang putih cincang atau cabai merah sesuai selera. Pastikan untuk meratakan bumbu dan kecap agar meresap dengan baik ke dalam nasi dan sosis.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Nasi Goreng Telur Sosis ini bisa dinikmati sebagai sarapan cepat, makan siang, atau makan malam yang lezat. Hidangan ini cocok disajikan dalam acara santai bersama keluarga atau sebagai hidangan sehari-hari ketika Anda ingin memasak sesuatu yang sederhana, namun mengenyangkan.`,
+    },
+],
 recipe: {
 details: {
 description: `pilihan ideal untuk hidangan sarapan yang memuaskan atau makan malam yang praktis dan enak.`,
@@ -7709,13 +7856,13 @@ nutrition: [
     { name: 'Vitamin C', amount: '1mg' },
 ],
 },
-video: `https://youtu.be/aRDR5BMQ8j8`,
+video: `https://youtube.com/shorts/y1fhXQ7iFD0?si=aIvu0rQ_Lih7pMVe`,
 image: require('./images/food/000000061.webp'),
 },
 {
 id: 62,
 name: `telur goreng spesial`,
-tagalog: ``,
+tagalog: `Low Carb, High Protein`,
 type: [
 `Egg Dish`,
 `Appetizer`,
@@ -7735,9 +7882,22 @@ keywords: [
 ],
 description: `
 Nasi Goreng Telur Sosis Microwave adalah hidangan praktis dan cepat yang menggabungkan kelezatan nasi goreng dengan kemudahan penggunaan microwave. Dengan mempersiapkan nasi putih, sosis, dan telur, serta tambahan bumbu seperti lada hitam, garam, dan kecap asin, hidangan ini siap disantap dalam waktu singkat.`,
-link: `https://panlasangpinoy.com/coconut-buko-pie-recipe/`,
+link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Untuk menciptakan variasi pada Telur Goreng Spesial, Anda dapat mencoba alternative ingredient untuk merasakan hidangan yang lebih beragam. Sebagai alternatif pada telur biasa, Anda bisa menambahkan telur bebek untuk memberikan dimensi rasa dan tekstur yang berbeda. Gantilah daging sapi cincang dengan daging ayam atau udang untuk variasi protein yang menarik. Jika ingin lebih beragam, tambahkan potongan sosis, ikan, atau sosis vegetarian sebagai pengganti daging. Saus ikan dapat diganti dengan saus teriyaki atau saus hoisin untuk sentuhan rasa Asia yang berbeda. Selain itu, wortel dan daun bawang dapat digantikan dengan sayuran lain seperti jamur, brokoli, atau bayam untuk memberikan variasi warna dan nutrisi.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, pastikan untuk menumis bahan-bahan seperti daging, ikan, dan sayuran hingga matang sebelum menambahkan telur. Gunakan wajan yang cukup besar untuk memastikan semua bahan dapat dimasak dengan merata. Untuk memberikan aroma ekstra, Anda dapat menambahkan bawang putih cincang atau jahe parut saat menumis. Jangan lupa untuk mencicipi dan sesuaikan bumbu sesuai selera Anda.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Telur Goreng Spesial ini dapat dinikmati kapan saja sebagai hidangan sarapan yang bergizi, makan siang, atau makan malam yang lezat. Hidangan ini juga cocok disajikan saat Anda ingin menyiapkan sesuatu yang cepat, namun tetap lezat dan bergizi. Nikmatilah Telur Goreng Spesial ini bersama nasi putih atau mie sebagai hidangan utama yang memuaskan selera.`,
+    },
+],
 recipe: {
 details: {
 description: `cocok untuk saat-saat ketika Anda menginginkan makanan yang enak tanpa repot.`,
@@ -7836,13 +7996,13 @@ nutrition: [
     { name: 'Natrium', amount: '800mg' },
 ],
 },
-video: `https://youtu.be/sx0O7x-t0p0`,
+video: `https://youtu.be/wcOWzCv4y9Y?si=RDqMgKxcRzMxpTct`,
 image: require('./images/food/000000062.webp'),
 },
 {
 id: 63,
-name: `Boiled egg sandwich rolls`,
-tagalog: ``,
+name: `Boiled Sandwich Rolls`,
+tagalog: `Sugar Free, Lactose Free`,
 type: [
 `Dessert`,
 `Egg Dish`,
@@ -7861,9 +8021,22 @@ keywords: [
 `mayonaise`,
 ],
 description: `Resep Boiled Egg Sandwich Rolls adalah hidangan simpel yang lezat dan penuh protein. Telur rebus dihaluskan dan dicampur dengan mayones, mentimun segar, serta sedikit garam dan lada hitam untuk menciptakan isian yang kaya rasa. Semua bahan ini diletakkan di atas roti gandum yang lembut, menciptakan gulungan sandwich yang mudah disantap. Hidangan ini cocok untuk sarapan cepat atau makan siang yang bergizi, memberikan energi dan rasa kenikmatan dalam setiap gigitannya.`,
-link: `https://panlasangpinoy.com/sapin-sapin-recipe/`,
+link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Untuk menciptakan variasi pada Boiled Egg Sandwich Rolls, Anda dapat mencoba alternative ingredient untuk menghadirkan sentuhan kreatif dalam hidangan ini. Sebagai alternatif pada roti gandum, Anda bisa memilih roti multigrain atau roti biji-bijian untuk tambahan nutrisi dan variasi rasa. Gantilah roti tawar dengan croissant atau baguette untuk memberikan dimensi tekstur yang berbeda. Jika ingin variasi pada telur, pertimbangkan untuk menambahkan telur rebus setengah matang atau telur dadar tipis. Mentimun dapat diganti dengan sayuran lain seperti selada, tomat, atau alpukat untuk sentuhan segar yang berbeda. Penggunaan mayonaise bisa digantikan dengan saus yogurt atau hummus untuk pilihan yang lebih ringan dan sehat.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, pastikan untuk memasak telur rebus dengan baik dan mengupasnya dengan hati-hati untuk mendapatkan tekstur yang lembut dan lezat. Jika menggunakan sayuran segar seperti mentimun atau tomat, pastikan untuk memotongnya tipis-tipis agar mudah dinikmati dalam setiap gigitan. Oleskan mayonaise atau saus pilihan Anda dengan merata agar seluruh sandwich memiliki rasa yang konsisten.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Boiled Egg Sandwich Rolls ini cocok dinikmati sebagai sarapan cepat, camilan sehat, atau makan siang yang praktis. Hidangan ini sangat sesuai untuk waktu makan di kantor, piknik, atau saat Anda ingin menyajikan sesuatu yang ringan namun memuaskan. Nikmatilah sandwich rolls ini bersama segelas teh atau kopi untuk pengalaman makan yang menyenangkan.`,
+    },
+],
 recipe: {
 details: {
 description: `Anda dapat menikmati sandwich gulungan yang lezat dan bergizi.`,
@@ -7939,13 +8112,13 @@ nutrition: [
     { name: 'Natrium', amount: '500mg' },
 ],
 },
-video: null,
+video: `https://youtube.com/shorts/9ttKbq9RvSg?si=bZonboM8nfRbzNxF`,
 image: require('./images/food/000000063.webp'),
 },
 {
 id: 64,
 name: `Sandwich box`,
-tagalog: ``,
+tagalog: `High Protein, Low Sugar`,
 type: [
 `Pork Dish`,
 `Breakfast`,
@@ -7968,9 +8141,22 @@ keywords: [
 `saus tomat`,
 ],
 description: `kreasi sandwich praktis yang diatur dalam bentuk kotak, ideal untuk makan siang atau bekal. Dengan menggunakan bahan-bahan sederhana seperti lembaran roti, saus tomat, jagung, daging ham, dan mayonaise, Anda dapat membuat hidangan yang lezat dan mudah disantap di mana saja.`,
-link: `https://panlasangpinoy.com/bopis-pulutan-recipe/`,
+link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Untuk menciptakan variasi pada Sandwich Box, Anda dapat mengeksplorasi alternative ingredient untuk menghadirkan variasi rasa yang menarik. Sebagai alternatif pada roti biasa, Anda bisa memilih roti gandum, roti tawar multigrain, atau wrap sebagai pengganti. Gantilah saus tomat dengan saus pesto, saus BBQ, atau saus mustard untuk mendapatkan rasa yang lebih kompleks. Jagung bisa digantikan dengan potongan zucchini atau irisan paprika untuk tambahan kerenyahan dan warna. Daging ham dapat diganti dengan daging ayam panggang, daging kalkun, atau bahkan tempe untuk opsi vegetarian. Mayonaise bisa digantikan dengan hummus, mustard, atau yogurt Greek untuk alternatif yang lebih sehat dan beragam.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, pastikan untuk menyusun lapisan-lapisan sandwich dengan merata sehingga setiap gigitan memberikan kombinasi rasa yang seimbang. Jika menggunakan saus, oleskan dengan tipis agar tidak membuat roti menjadi lembek. Jangan lupa untuk menyesuaikan jumlah saus atau mayonaise sesuai selera pribadi Anda. Saat menyusun sandwich dalam box, gunakan wadah yang kedap udara agar sandwich tetap segar dan krispi.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Sandwich Box ini cocok dinikmati sebagai bekal untuk bekerja atau sekolah, piknik, atau saat Anda ingin menyantap hidangan praktis saat bepergian. Hidangan ini juga bisa menjadi alternatif cepat dan mudah untuk makan siang di kantor. Nikmatilah sandwich box ini sebagai opsi makan yang fleksibel, bisa disajikan kapan saja sesuai dengan kebutuhan dan kesibukan Anda.`,
+    },
+],
 recipe: {
 details: {
 description: `sajian siap dinikmati.`,
@@ -8039,13 +8225,13 @@ nutrition: [
     { name: 'Natrium', amount: '600mg' },
 ],
 },
-video: `https://youtu.be/_9weQMu2Kvo`,
+video: `https://youtu.be/_9weQMu2Kvohttps://youtube.com/shorts/lcJngaDfxAQ?si=D69r6OLxyosBC3Ss`,
 image: require('./images/food/000000064.webp'),
 },
 {
 id: 65,
 name: 'Nasi ayam teriyaki',
-tagalog: ``,
+tagalog: `High Protein, Low Sugar`,
 type: [
 `Main Course`,
 `Breakfast`,
@@ -8065,9 +8251,22 @@ keywords: [
 `gula pasir`,
 ],
 description: `hidangan lezat yang menggabungkan cita rasa ayam empuk dengan saus teriyaki yang kaya. Dibuat dengan bahan sederhana seperti nasi, daging ayam (bagian paha), saus teriyaki, dan gula pasir, hidangan ini menawarkan kombinasi rasa gurih, manis, dan asin yang memukau. Instruksi yang mudah diikuti membuat Nasi Ayam Teriyaki cocok untuk hidangan sehari-hari yang praktis dan enak.`,
-link: `https://panlasangpinoy.com/filipino-food-kakanin-cuchinta-kutsinta-recipe/`,
-author: `Vanjo Merano`,
-information: null,
+link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
+author: `cooKost`,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Untuk memberikan variasi pada Nasi Ayam Teriyaki, Anda dapat mencoba alternative ingredient untuk menciptakan hidangan yang lebih beragam. Sebagai alternatif pada daging ayam, Anda bisa menggunakan daging sapi iris tipis, udang, atau tahu untuk opsi vegetarian. Gantilah nasi putih dengan nasi cokelat atau nasi beras merah untuk tambahan serat dan nutrisi. Jika tidak ingin menggunakan saus teriyaki, coba saus hoisin, saus oyster, atau saus ketumbar-lada sebagai alternatif rasa yang berbeda. Gula pasir bisa digantikan dengan madu, sirup maple, atau gula kelapa untuk pilihan pemanis alami yang beragam.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, pastikan untuk memotong daging tipis-tipis agar cepat meresap bumbu dan matang secara merata. Marinasi daging dalam saus teriyaki atau bumbu pilihan Anda dapat dilakukan sebelumnya untuk mendapatkan rasa yang lebih dalam. Saat memasak nasi, perhatikan takaran air agar nasi memiliki tekstur yang sesuai dengan selera. Jika menggunakan saus teriyaki atau bumbu kental, pastikan untuk meratakan secara merata pada daging dan nasi.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Nasi Ayam Teriyaki ini dapat dinikmati sebagai hidangan utama untuk makan malam keluarga atau acara santai bersama teman. Hidangan ini cocok untuk disajikan saat ingin menyajikan sesuatu yang lezat dan memuaskan, namun tetap praktis. Nikmatilah nasi ayam teriyaki ini saat Anda ingin menikmati hidangan Asia yang lezat dengan variasi rasa yang berbeda.`,
+    },
+],
 recipe: {
 details: {
 description: `nikmati selagi hangat!`,
@@ -8130,13 +8329,13 @@ nutrition: [
     { name: 'Natrium', amount: '800mg' },
 ],
 },
-video: `https://youtu.be/jLtfJxVQn5I`,
+video: `https://youtu.be/xGa3c5NxUAY?si=r_C41E95_zsUZoMf`,
 image: require('./images/food/000000065.webp'),
 },
 {
 id: 66,
 name: `Telur goreng campur`,
-tagalog: ``,
+tagalog: `Low Fat, Low Carb`,
 type: [
 `Meat Dish`,
 `Beef Dish`,
@@ -8155,9 +8354,22 @@ keywords: [
 `lada hitam`,
 ],
 description: `hidangan lezat yang menggabungkan telur goreng dengan daging cincang dan tomat, memberikan rasa gurih, segar, dan lezat dalam satu sajian. hidangan ini menyajikan kombinasi cita rasa yang kaya. Dengan instruksi yang mudah diikuti`,
-link: `https://panlasangpinoy.com/picadillo-recipe/`,
+link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Anda dapat bereksperimen dengan resep Potato Cheese Ball untuk menciptakan variasi yang menarik. Misalnya, tambahkan potongan sayuran seperti paprika merah atau hijau ke dalam adonan untuk memberikan sentuhan warna dan rasa segar. Untuk opsi protein alternatif, pertimbangkan menggunakan tahu atau tempe yang dihaluskan sebagai pengganti telur. Jika Anda menginginkan variasi rasa, tambahkan rempah-rempah seperti oregano, basil, atau merica ke dalam adonan. Selain itu, untuk kesehatan tambahan, pertimbangkan menggunakan keju rendah lemak atau keju feta sebagai alternatif keju mozzarella.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Untuk hasil yang sempurna, pastikan adonan tercampur rata dan bulatkan bola dengan hati-hati agar tekstur setelah digoreng merata. Gunakan minyak panas yang cukup dan goreng bola kentang keju hingga berwarna keemasan. Pastikan untuk menggoreng dalam jumlah kecil agar bola kentang matang secara merata. Setelah digoreng, letakkan bola kentang keju di atas kertas serap untuk menyerap kelebihan minyak.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Potato Cheese Ball cocok disajikan sebagai camilan lezat di acara santai, seperti pesta teman atau kumpul keluarga. Hidangan ini juga menjadi pilihan yang populer sebagai pembuka sebelum makan malam atau makan siang. Untuk variasi, sajikan dengan saus tomat atau saus mayo yang dicampur dengan rempah-rempah. Dengan kelezatan dan kemudahan penyajiannya, Potato Cheese Ball bisa menjadi favorit di berbagai kesempatan.`,
+    },
+],
 recipe: {
 details: {
 description: `Telur Goreng Campur menjadi pilihan cepat dan nikmat untuk makan siang atau makan malam.`,
@@ -8250,13 +8462,13 @@ nutrition: [
     { name: 'Natrium', amount: '700mg' },
 ],
 },
-video: `https://youtu.be/9ZZME6Ab7Rs`,
+video: `https://youtu.be/ohEpwBo93r4?si=qkAugTB_IsvBZOV_`,
 image: require(`./images/food/000000066.webp`),
 },
 {
 id: 67,
 name: `roti isi telur`,
-tagalog: ``,
+tagalog: `Low Calorie`,
 type: [
 `Egg Dish`,
 `Appetizer`,
@@ -8273,9 +8485,22 @@ keywords: [
 `telur`,
 ],
 description: `hidangan sarapan yang praktis dan lezat, menggabungkan kelezatan roti rasa abon ayam dengan kekayaan rasa dari telur dan kecrispy-an jagung. Dengan instruksi yang sederhana, hidangan ini cocok untuk makan pagi yang cepat dan memuaskan.`,
-link: `https://panlasangpinoy.com/espasol/`,
+link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Untuk memberikan variasi pada Roti Isi Telur, Anda dapat mencoba alternative ingredient untuk menghadirkan sentuhan kreatif dalam hidangan ini. Sebagai alternatif pada roti biasa, Anda bisa menggunakan roti rasa gandum, roti ubi, atau bahkan roti keju untuk memberikan dimensi rasa yang berbeda. Gantilah abon ayam dengan potongan daging ayam panggang atau daging sapi cincang untuk variasi protein yang berbeda. Jagung dapat digantikan dengan kacang polong atau potongan paprika untuk sentuhan kerenyahan dan warna. Selain itu, telur bisa disiapkan dalam berbagai cara, seperti telur dadar, rebus, atau telur mata sapi, untuk memberikan variasi dalam tekstur dan rasa.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, pastikan untuk meratakan bahan-bahan pada setiap lapisan roti agar setiap gigitan memberikan kombinasi rasa yang seimbang. Jika menggunakan telur dadar, pastikan untuk memasaknya dengan baik dan memotongnya sesuai dengan ukuran roti. Anda juga bisa menambahkan keju parut atau saus kesukaan Anda untuk tambahan rasa yang kaya. Gunakan wajan anti lengket atau panini press untuk memberikan tekstur krispi pada bagian luar roti.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Roti Isi Telur ini bisa dinikmati sebagai sarapan cepat, camilan sehat, atau makan siang yang praktis. Hidangan ini cocok disajikan saat Anda ingin menyantap sesuatu yang lezat dan bergizi dalam waktu singkat. Nikmatilah roti isi telur ini bersama secangkir teh atau kopi pada pagi yang sibuk atau sebagai pilihan bekal saat bepergian.`,
+    },
+],
 recipe: {
 details: {
 description: `masak dalam microwave untuk mendapatkan sajian roti isi telur yang lezat dan bergizi.`,
@@ -8330,13 +8555,13 @@ nutrition: [
     { name: 'Natrium', amount: '500mg' },
 ],
 },
-video: `https://youtu.be/uZCfv5ZpWao`,
+video: `https://youtu.be/iidj1dQn2S4?si=KQE3eLV6GgshR5wI`,
 image: require('./images/food/000000067.webp'),
 },
 {
 id: 68,
-name: `Suki mie instan goreng`,
-tagalog: ``,
+name: `Suki mie goreng`,
+tagalog: `Sugar-Free`,
 type: [
 `Main Course`,
 `Noodle Dish`,
@@ -8356,9 +8581,22 @@ keywords: [
 `telur`,
 ],
 description: `Suki Mie Instan Goreng adalah varian kreasi yang lezat dari mie instan, memadukan cita rasa ayam garing, kubis segar, dan saus tiram yang gurih. Dengan instruksi yang sederhana, hidangan ini dapat disiapkan dengan cepat untuk memuaskan selera makan Anda. Mie instan yang digoreng setengah matang kemudian dicampur dengan potongan daging ayam, telur, dan kubis, memberikan hidangan sederhana yang lezat dari bahan biasa`,
-link: `https://panlasangpinoy.com/flat-rice-cake-palitaw-recipe/`,
+link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Untuk memberikan variasi pada Suki Mie Instan Goreng, Anda dapat mencoba alternative ingredient untuk menciptakan hidangan yang lebih beragam. Sebagai alternatif pada mie instan ayam, Anda bisa mencoba mie soba, mie telur, atau mie jagung untuk mendapatkan variasi rasa dan tekstur. Gantilah kubis dengan sayuran lain seperti brokoli, wortel, atau jamur untuk tambahan nutrisi dan warna yang berbeda. Jika tidak memiliki saus tiram, saus hoisin, atau saus teriyaki bisa menjadi alternatif yang lezat. Selain itu, Anda dapat menambahkan daging ayam, udang, atau tahu sebagai alternatif protein, dan mencoba variasi telur seperti telur dadar atau telur rebus.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, pastikan untuk memasak mie instan sesuai petunjuk pada kemasan hingga al dente agar mendapatkan tekstur yang tepat. Jika menggunakan sayuran segar, potong dengan ukuran yang seragam agar matang merata. Saat menumis, pastikan untuk memasukkan bumbu-bumbu secara merata untuk memperoleh rasa yang seimbang. Jangan lupa mencicipi dan sesuaikan bumbu sesuai dengan selera Anda.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Suki Mie Instan Goreng ini cocok dinikmati sebagai hidangan utama saat makan malam atau makan siang bersama keluarga. Hidangan ini juga bisa menjadi pilihan yang praktis untuk acara piknik atau makanan ringan saat sedang bersantai di rumah. Nikmatilah suki mie instan goreng ini kapan saja Anda ingin menyajikan hidangan yang lezat dengan cara yang cepat dan mudah.`,
+    },
+],
 recipe: {
 details: {
 description: `sentuhan lezat yang berbeda dari mie instan biasa.`,
@@ -8436,13 +8674,13 @@ nutrition: [
     { name: 'Natrium', amount: '800mg' },
 ],
 },
-video: `https://youtu.be/WviYhlA3R00`,
+video: `https://youtu.be/KAV9chKRgQQ?si=sXE9LIb4369SOm9D`,
 image: require('./images/food/000000068.webp'),
 },
 {
 id: 69,
-name: `Sausage cheese in egg`,
-tagalog: ``,
+name: `Sausage in egg`,
+tagalog: `High Protein`,
 type: [
 `Dessert`,
 `Snack`,
@@ -8461,9 +8699,22 @@ keywords: [
 `keju slice`,
 ],
 description: ` hidangan sarapan yang lezat dan mengenyangkan, memadukan kelezatan telur dadar dengan sosis dan keju. Dengan potongan keju yang meleleh di dalam telur dadar, hidangan ini memberikan cita rasa gurih dan lembut yang sempurna untuk memulai hari Anda. Disajikan dengan saus, hidangan ini cocok untuk dinikmati secara cepat dan menyediakan energi yang diperlukan untuk memulai hari.`,
-link: `https://panlasangpinoy.com/brazo-de-mercedes-cake-recipe/`,
+link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Untuk memberikan variasi pada hidangan Sausage and Cheese in Egg, Anda dapat mencoba alternative ingredient untuk menciptakan kombinasi rasa yang lebih beragam. Sebagai alternatif pada sosis, Anda bisa menggunakan sosis ayam, sosis daging sapi, atau bahkan sosis vegetarian untuk variasi protein yang berbeda. Keju slice dapat digantikan dengan keju parut cheddar, keju mozzarella, atau keju Swiss untuk memberikan sentuhan rasa dan tekstur yang berbeda. Jika ingin mencoba alternatif telur, pertimbangkan untuk menggunakan telur rebus, telur dadar, atau telur mata sapi.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, pastikan untuk memasak telur sesuai dengan selera Anda, apakah itu telur setengah matang atau telur yang lebih matang. Jika menggunakan sosis yang tidak dipanggang sebelumnya, Anda dapat memasaknya terlebih dahulu untuk memberikan aroma yang lebih kaya dan kelezatan yang lebih baik. Pastikan untuk menyusun lapisan-lapisan sosis dan keju dengan rapi sebelum menambahkan telur untuk mendapatkan hasil akhir yang menarik dan enak.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Hidangan Sausage and Cheese in Egg ini cocok dinikmati sebagai sarapan yang kaya protein atau brunch yang memuaskan. Anda dapat menyajikannya dengan roti panggang atau bagel untuk pengalaman makan yang lebih lengkap. Hidangan ini juga bisa menjadi pilihan yang baik untuk santapan pagi yang cepat atau hidangan yang memuaskan pada akhir pekan. Nikmatilah kombinasi rasa yang lezat ini kapan saja Anda ingin menyantap hidangan sarapan yang berbeda.`,
+    },
+],
 recipe: {
 details: {
 description: `nikmati lelehnya keju dalam setiap gigitan!`,
@@ -8472,8 +8723,8 @@ prep: `10 Menit`,
 cook: `15 Menit`,
 total: `25 Menit`,
 },
-servings: `6 People`,
-calories: null,
+servings: `1 People`,
+calories: `400 kkal`,
 },
 ingredients: [
 {
@@ -8533,13 +8784,13 @@ nutrition: [
     { name: 'Natrium', amount: '800mg' },
 ],
 },
-video: `https://youtu.be/zeWgdElgxtU`,
+video: `https://youtube.com/shorts/7FgDYLvQ1yg?si=cRK3KEif8tZ1a3ER`,
 image: require('./images/food/000000069.webp'),
 },
 {
 id: 70,
 name: `Pisang rebus manis`,
-tagalog: ``,
+tagalog: `Low Fat, Low Calorie`,
 type: [
 `Dessert`,
 `Snack`,
@@ -8561,9 +8812,22 @@ description: `
 Pisang Rebus Manis
 
 Pisang Rebus Manis adalah hidangan sederhana yang mempersembahkan kelembutan pisang yang direbus dengan gula, menciptakan rasa manis alami yang memanjakan lidah. Dengan sentuhan gula pasir, hidangan ini memberikan cita rasa yang lezat dan memuaskan.`,
-link: `https://panlasangpinoy.com/maja-blanca-recipe/`,
+link: `https://www.webtoons.com/id/slice-of-life/lazy-cooking/list?title_no=657`,
 author: `cooKost`,
-information: null,
+information: [
+    {
+    title: `Alternative Ingredient`,
+    content: `Untuk menciptakan variasi pada Pisang Rebus Manis, Anda dapat mencoba alternative ingredient untuk memberikan sentuhan rasa yang berbeda. Sebagai alternatif pada pisang, Anda bisa menggunakan pisang raja, pisang kepok, atau pisang ambon untuk mendapatkan variasi rasa yang lebih kompleks. Selain itu, coba tambahkan bumbu seperti kayu manis atau vanila untuk memberikan aroma dan rasa tambahan. Gantilah gula pasir dengan madu atau gula kelapa sebagai pilihan pemanis alami yang beragam.`,
+    },
+    {
+    title: `Cooking Tips`,
+    content: `Dalam proses memasak, pastikan untuk memilih pisang yang masih agak muda agar hasilnya lebih kental dan lezat. Rebus pisang dalam air yang cukup untuk menutupi pisang hingga matang dengan baik. Jangan lupa untuk menambahkan bumbu atau pemanis setelah pisang matang agar meresap ke dalam daging pisang. Jika ingin memberikan sentuhan yang berbeda, coba kukus pisang sebagai alternatif cara memasaknya.`,
+    },
+    {
+    title: `Suitable Time`,
+    content: `Pisang Rebus Manis ini bisa dinikmati sebagai hidangan pencuci mulut setelah makan siang atau makan malam. Hidangan ini juga cocok sebagai camilan ringan ketika Anda ingin sesuatu yang manis dan memuaskan. Nikmatilah pisang rebus manis ini kapan saja, baik saat santai di rumah, piknik, atau sebagai tambahan pada hidangan spesial.`,
+    },
+],
 recipe: {
 details: {
 description: `pilihan yang cocok sebagai camilan atau hidangan penutup ringan.`,
@@ -8616,7 +8880,7 @@ nutrition: [
     { name: 'Natrium', amount: '5mg' },
 ],
 },
-video: `https://youtu.be/vj_ee_6T6ys`,
+video: `https://youtube.com/shorts/ulCvEZZTH4I?si=nwpZhafp1Tn6lbqB`,
 image: require('./images/food/000000070.webp'),
 },
 ]

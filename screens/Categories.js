@@ -17,7 +17,7 @@ export default function Categories({ navigation, route }) {
         <TouchableOpacity
           style={{
             padding: 6,
-            backgroundColor: "#2221",
+            backgroundColor: "#FFD3C9",
             borderRadius: 100,
           }}
           activeOpacity={ 0.6 }

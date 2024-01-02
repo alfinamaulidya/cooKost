@@ -96,7 +96,7 @@ export default function FoodRecipe({ recipe }) {
           data={recipe.instructions}
           scrollX={ scrollX }
           inActiveDotOpacity={ 0.2 }
-          activeDotColor={ '#36C464' }
+          activeDotColor={ '#FFA38E' }
           dotStyle={{
             flex: 1,
             maxHeight: 10,
@@ -170,7 +170,7 @@ const styles = StyleSheet.create({
     textTransform: 'uppercase',
     marginBottom: 8,
     borderRadius: 8,
-    backgroundColor: '#36C464',
+    backgroundColor: '#FFA38E',
     color: '#fff',
     elevation: 2,
     maxWidth: 480,
@@ -187,7 +187,7 @@ const styles = StyleSheet.create({
     textTransform: 'uppercase',
     marginBottom: 8,
     borderRadius: 8,
-    backgroundColor: '#36C464',
+    backgroundColor: '#FFA38E',
     color: '#fff',
     elevation: 2,
     marginHorizontal: 12,
@@ -212,7 +212,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   instructionNumberContainer: {
-    backgroundColor: '#36C464',
+    backgroundColor: '#FFA38E',
     fontSize: 20,
     width: '100%',
     textTransform: 'uppercase',
@@ -226,7 +226,7 @@ const styles = StyleSheet.create({
     elevation: 2,
   },
   instruction: {
-    backgroundColor: '#FFC02D',
+    backgroundColor: '#FFD3C9',
     minHeight: 200,
     paddingHorizontal: 24,
     width: "100%",

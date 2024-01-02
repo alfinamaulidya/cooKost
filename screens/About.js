@@ -15,13 +15,13 @@ export default function About(){
           <View style={ styles.imageContainer }>
             <Image
               style={ styles.image }
-              source={ require(`../assets/images/icon-no-bg.png`) }
+              source={ require(`../assets/images/iconabout.png`) }
             />
           </View>
           <View style={ styles.appInfoContainer }>
             <Text style={ styles.appVersion }>V{ app.version }</Text>
             <Text style={ styles.appDescription }>
-              Authentic Pinoy Recipes is a mobile application whereby it presents different Pinoy Foods and its recipe.
+            Cookost, aplikasi inovatif untuk anak kos yang mencari solusi praktis dalam memasak. Dengan koleksi resep hemat dan mudah, Cookost memudahkan pengguna untuk menyajikan hidangan lezat tanpa ribet. Temukan ide masakan kreatif dan hemat waktu, menjadi chef di dapur kosmu dengan Cookost!
             </Text>
           </View>
         </View>

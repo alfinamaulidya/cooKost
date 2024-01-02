@@ -148,7 +148,7 @@ const styles = StyleSheet.create({
     borderRadius: 100,
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: '#4080f018',
+    backgroundColor: '#FFD3C9',
   },
   searchField: {
     textAlignVertical: 'center',

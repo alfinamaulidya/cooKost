@@ -24,6 +24,10 @@ const Ingredients = [
     image: require('./images/ingredient/annatto-seed.png'),
   },
   {
+    name: 'apple',
+    image: require('./images/ingredient/apple.png'),
+  },
+  {
     name: 'avocado',
     image: require('./images/ingredient/avocado.png'),
   },
@@ -252,6 +256,10 @@ const Ingredients = [
     image: require('./images/ingredient/daging-giling.png'),
   },
   {
+    name: 'dragon-fruit',
+    image: require('./images/ingredient/dragon-fruit.png'),
+  },
+  {
     name: 'dumpling-wrap',
     image: require('./images/ingredient/dumpling-wrap.png'),
   },
@@ -380,6 +388,10 @@ const Ingredients = [
     image: require('./images/ingredient/juice-pineapple.png'),
   },
   {
+    name: 'kimchi',
+    image: require('./images/ingredient/kimchi.png'),
+  },
+  {
     name: 'latik',
     image: require('./images/ingredient/latik.png'),
   },
@@ -442,6 +454,10 @@ const Ingredients = [
   {
     name: 'mayonnaise',
     image: require('./images/ingredient/mayonnaise.png'),
+  },
+  {
+    name: 'melon',
+    image: require('./images/ingredient/melon.png'),
   },
   {
     name: 'mie',
@@ -794,6 +810,10 @@ const Ingredients = [
   {
     name: 'water-spinach',
     image: require('./images/ingredient/water-spinach.png'),
+  },
+  {
+    name: 'watermelon',
+    image: require('./images/ingredient/watermelon.png'),
   },
   {
     name: 'wine',
